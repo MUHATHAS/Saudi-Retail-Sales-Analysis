@@ -24,6 +24,9 @@ FROM SalesTransactions;
 * **Payment Ecosystem Evolution:** Modern localized transaction channels (**Mada** and **Apple Pay**) generated the largest share of processing metrics compared to legacy payment formats, emphasizing the success of digital wallet adoption in the Kingdom.
 * **Temporal Patterns:** Line trends isolated clear consumer spending surges linked to regional calendar dynamics and purchasing cycles.
 
+## Dashboard Preview
+![Saudi Retail Dashboard](saudi_retail_dashboard.png)
+
 ## Technical Skills Demonstrated
 * Relational Schema Development (MySQL)
 * Advanced Aggregations & Data Type Casting
