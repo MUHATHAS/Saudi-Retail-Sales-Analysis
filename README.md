@@ -29,5 +29,4 @@ FROM SalesTransactions;
 * Advanced Aggregations & Data Type Casting
 * Dynamic DAX Measure Construction
 * Visual Hierarchy and Report Layout Design
-* Dynamic DAX Measure Construction
-* Visual Hierarchy and Report Layout Design
+  
