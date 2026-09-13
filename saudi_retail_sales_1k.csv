@@ -1,0 +1,1001 @@
+TransactionID,TransactionDate,City,Category,Product,UnitPrice_SAR,Quantity,TotalSales_SAR,PaymentMethod
+1,2025-10-09,Medina,Electronics,iPhone 15,1602.01,2,3204.02,Mada
+2,2026-03-09,Medina,Groceries,Dates Premium,25.72,1,25.72,Visa
+3,2025-01-28,Jeddah,Groceries,Honey Pure,121.02,5,605.1,Apple Pay
+4,2025-10-12,Jeddah,Beauty,Gift Set,373.77,1,373.77,Visa
+5,2025-10-12,Medina,Beauty,Sunscreen,112.19,3,336.57,Mada
+6,2026-01-03,Riyadh,Beauty,Oud Perfume,389.0,5,1945.0,Mastercard
+7,2025-05-08,Riyadh,Beauty,Gift Set,439.25,4,1757.0,Mada
+8,2026-01-06,Makkah,Home & Kitchen,Vacuum Cleaner,756.22,1,756.22,Mada
+9,2025-03-23,Medina,Apparel,Sports Sneakers,527.66,1,527.66,Apple Pay
+10,2025-06-16,Dammam,Beauty,Sunscreen,198.07,2,396.14,Mastercard
+11,2025-06-25,Medina,Electronics,Smart Watch,2903.63,2,5807.26,Visa
+12,2025-08-13,Khobar,Beauty,Sunscreen,323.85,1,323.85,Visa
+13,2025-10-02,Riyadh,Home & Kitchen,Dinner Set,219.5,5,1097.5,Mastercard
+14,2026-04-15,Jeddah,Beauty,Beard Oil,107.15,2,214.3,Visa
+15,2025-09-27,Medina,Groceries,Honey Pure,154.46,4,617.84,Cash
+16,2025-05-22,Khobar,Home & Kitchen,Air Fryer,685.0,1,685.0,Mada
+17,2026-03-09,Riyadh,Apparel,Abaya Modern,398.2,4,1592.8,Apple Pay
+18,2025-09-15,Makkah,Beauty,Gift Set,438.43,1,438.43,Mada
+19,2025-12-15,Medina,Groceries,Basmati Rice,40.08,4,160.32,Visa
+20,2026-05-28,Khobar,Electronics,Sony Headphones,3928.83,5,19644.15,Mada
+21,2025-07-23,Medina,Home & Kitchen,Vacuum Cleaner,310.48,2,620.96,Cash
+22,2025-11-28,Makkah,Electronics,Smart Watch,2698.73,1,2698.73,Mastercard
+23,2025-09-04,Dammam,Apparel,Thobe Classic,539.0,1,539.0,Mada
+24,2026-06-30,Medina,Beauty,Oud Perfume,356.33,2,712.66,Apple Pay
+25,2026-06-25,Makkah,Apparel,Sports Sneakers,536.22,4,2144.88,Visa
+26,2026-02-13,Makkah,Apparel,Sports Sneakers,597.57,3,1792.71,Apple Pay
+27,2025-09-11,Makkah,Beauty,Oud Perfume,139.88,3,419.64,Mada
+28,2025-08-14,Makkah,Groceries,Olive Oil,21.29,1,21.29,Visa
+29,2025-03-14,Riyadh,Electronics,Sony Headphones,2813.7,3,8441.1,Apple Pay
+30,2026-04-30,Jeddah,Groceries,Olive Oil,63.74,4,254.96,Apple Pay
+31,2026-03-18,Jeddah,Electronics,iPhone 15,2094.34,4,8377.36,Apple Pay
+32,2025-03-04,Medina,Electronics,iPhone 15,2311.8,3,6935.4,Mada
+33,2026-04-05,Jeddah,Apparel,Abaya Modern,170.09,2,340.18,Mastercard
+34,2026-03-30,Khobar,Apparel,Thobe Classic,504.01,5,2520.05,Mada
+35,2025-04-06,Riyadh,Groceries,Dates Premium,186.75,2,373.5,Visa
+36,2025-08-07,Khobar,Beauty,Beard Oil,395.86,1,395.86,Visa
+37,2025-09-29,Khobar,Electronics,iPad Air,4669.33,4,18677.32,Mastercard
+38,2025-06-08,Khobar,Groceries,Arabic Coffee Beans,54.18,2,108.36,Mada
+39,2025-11-18,Makkah,Groceries,Dates Premium,30.29,5,151.45,Apple Pay
+40,2025-02-28,Makkah,Groceries,Olive Oil,192.94,1,192.94,Visa
+41,2025-08-29,Riyadh,Groceries,Dates Premium,92.68,5,463.4,Visa
+42,2025-03-25,Makkah,Groceries,Dates Premium,95.46,5,477.3,Cash
+43,2025-07-29,Makkah,Home & Kitchen,Blender,853.21,3,2559.63,Visa
+44,2025-11-04,Dammam,Beauty,Moisturizer,232.89,1,232.89,Mada
+45,2025-04-13,Khobar,Groceries,Honey Pure,33.19,2,66.38,Cash
+46,2025-03-12,Dammam,Apparel,Sports Sneakers,539.64,3,1618.92,Mastercard
+47,2025-11-06,Jeddah,Beauty,Gift Set,294.67,5,1473.35,Mada
+48,2025-04-17,Medina,Groceries,Basmati Rice,189.01,2,378.02,Mastercard
+49,2025-06-09,Riyadh,Electronics,Smart Watch,1725.57,5,8627.85,Visa
+50,2025-09-28,Medina,Home & Kitchen,Air Fryer,680.68,3,2042.04,Mada
+51,2025-02-15,Riyadh,Beauty,Sunscreen,51.42,2,102.84,Mastercard
+52,2026-03-14,Jeddah,Beauty,Gift Set,274.36,1,274.36,Mada
+53,2025-02-06,Medina,Apparel,Formal Suit,517.3,5,2586.5,Cash
+54,2025-02-12,Jeddah,Beauty,Moisturizer,173.3,1,173.3,Mastercard
+55,2025-12-29,Jeddah,Apparel,Thobe Classic,490.06,4,1960.24,Cash
+56,2025-06-16,Medina,Apparel,Abaya Modern,588.1,2,1176.2,Apple Pay
+57,2026-02-26,Riyadh,Apparel,Sports Sneakers,501.12,2,1002.24,Mastercard
+58,2025-02-09,Jeddah,Electronics,iPad Air,4363.67,2,8727.34,Visa
+59,2025-08-22,Khobar,Home & Kitchen,Blender,384.07,2,768.14,Apple Pay
+60,2025-10-13,Dammam,Home & Kitchen,Arabic Coffee Maker,518.7,5,2593.5,Apple Pay
+61,2025-01-29,Medina,Groceries,Basmati Rice,40.76,3,122.28,Visa
+62,2025-04-22,Makkah,Home & Kitchen,Arabic Coffee Maker,776.4,3,2329.2,Mastercard
+63,2025-04-29,Khobar,Groceries,Honey Pure,89.34,5,446.7,Visa
+64,2025-01-02,Dammam,Electronics,iPad Air,2839.64,5,14198.2,Visa
+65,2025-12-05,Dammam,Beauty,Oud Perfume,299.26,1,299.26,Mastercard
+66,2025-12-01,Makkah,Home & Kitchen,Dinner Set,572.52,3,1717.56,Cash
+67,2026-01-24,Jeddah,Apparel,Leather Sandals,438.66,2,877.32,Cash
+68,2025-01-01,Makkah,Home & Kitchen,Dinner Set,469.07,2,938.14,Apple Pay
+69,2026-04-22,Makkah,Groceries,Basmati Rice,99.52,2,199.04,Cash
+70,2025-10-18,Khobar,Apparel,Thobe Classic,357.73,5,1788.65,Mastercard
+71,2025-08-19,Riyadh,Apparel,Sports Sneakers,503.28,2,1006.56,Mada
+72,2025-03-16,Riyadh,Apparel,Leather Sandals,327.71,5,1638.55,Visa
+73,2026-02-14,Medina,Beauty,Beard Oil,147.59,1,147.59,Mada
+74,2026-06-15,Khobar,Apparel,Abaya Modern,332.27,5,1661.35,Visa
+75,2026-04-21,Riyadh,Beauty,Moisturizer,317.03,5,1585.15,Cash
+76,2026-06-01,Dammam,Beauty,Gift Set,220.7,5,1103.5,Apple Pay
+77,2025-09-23,Jeddah,Beauty,Beard Oil,350.71,3,1052.13,Cash
+78,2026-03-27,Khobar,Apparel,Sports Sneakers,138.74,3,416.22,Visa
+79,2025-03-24,Dammam,Home & Kitchen,Blender,295.29,2,590.58,Apple Pay
+80,2025-03-07,Medina,Apparel,Abaya Modern,307.43,3,922.29,Cash
+81,2025-07-31,Khobar,Beauty,Oud Perfume,383.16,4,1532.64,Cash
+82,2026-01-25,Medina,Electronics,Smart Watch,2646.41,3,7939.23,Mastercard
+83,2025-08-14,Khobar,Beauty,Gift Set,245.29,3,735.87,Apple Pay
+84,2025-12-11,Khobar,Electronics,iPad Air,3509.93,4,14039.72,Visa
+85,2025-01-28,Khobar,Apparel,Formal Suit,553.46,5,2767.3,Cash
+86,2026-03-15,Medina,Electronics,iPhone 15,1110.65,4,4442.6,Visa
+87,2025-12-02,Riyadh,Home & Kitchen,Dinner Set,372.24,3,1116.72,Mastercard
+88,2025-09-16,Khobar,Home & Kitchen,Dinner Set,1026.66,4,4106.64,Mada
+89,2025-12-25,Medina,Groceries,Dates Premium,60.36,1,60.36,Mada
+90,2025-01-21,Riyadh,Apparel,Abaya Modern,410.67,2,821.34,Visa
+91,2025-08-12,Khobar,Electronics,Smart Watch,2592.65,3,7777.95,Mastercard
+92,2025-04-28,Jeddah,Groceries,Honey Pure,160.0,2,320.0,Mastercard
+93,2025-11-16,Riyadh,Groceries,Dates Premium,123.64,4,494.56,Apple Pay
+94,2025-09-06,Medina,Apparel,Thobe Classic,150.95,3,452.85,Cash
+95,2025-12-22,Riyadh,Groceries,Dates Premium,115.89,3,347.67,Mada
+96,2026-03-07,Makkah,Home & Kitchen,Arabic Coffee Maker,1013.45,1,1013.45,Apple Pay
+97,2026-03-22,Dammam,Beauty,Moisturizer,120.45,5,602.25,Mastercard
+98,2026-04-22,Makkah,Groceries,Arabic Coffee Beans,98.4,5,492.0,Mastercard
+99,2025-10-13,Dammam,Apparel,Thobe Classic,540.82,2,1081.64,Apple Pay
+100,2025-12-11,Makkah,Groceries,Arabic Coffee Beans,25.17,3,75.51,Visa
+101,2025-09-22,Khobar,Apparel,Sports Sneakers,270.17,5,1350.85,Mastercard
+102,2025-07-15,Makkah,Electronics,Smart Watch,885.26,4,3541.04,Apple Pay
+103,2026-05-18,Makkah,Apparel,Leather Sandals,324.09,1,324.09,Mada
+104,2025-09-07,Dammam,Apparel,Leather Sandals,253.1,5,1265.5,Mastercard
+105,2025-12-19,Khobar,Groceries,Honey Pure,96.59,5,482.95,Mastercard
+106,2025-11-10,Dammam,Beauty,Sunscreen,150.56,1,150.56,Visa
+107,2025-07-09,Dammam,Electronics,Smart Watch,1361.93,4,5447.72,Mastercard
+108,2025-10-17,Medina,Groceries,Honey Pure,196.49,2,392.98,Mastercard
+109,2025-11-06,Jeddah,Home & Kitchen,Air Fryer,164.86,5,824.3,Visa
+110,2025-10-27,Dammam,Electronics,iPhone 15,3638.38,2,7276.76,Apple Pay
+111,2025-10-19,Riyadh,Electronics,Smart Watch,2612.29,4,10449.16,Mastercard
+112,2026-05-05,Jeddah,Electronics,Sony Headphones,1013.39,1,1013.39,Apple Pay
+113,2025-02-24,Khobar,Electronics,Smart Watch,1182.77,5,5913.85,Mastercard
+114,2026-03-03,Riyadh,Apparel,Thobe Classic,403.16,5,2015.8,Visa
+115,2026-03-30,Makkah,Beauty,Beard Oil,168.94,5,844.7,Apple Pay
+116,2025-03-03,Dammam,Groceries,Honey Pure,129.73,1,129.73,Visa
+117,2025-03-25,Medina,Apparel,Sports Sneakers,178.53,2,357.06,Cash
+118,2026-02-23,Riyadh,Apparel,Thobe Classic,325.25,5,1626.25,Apple Pay
+119,2025-10-23,Dammam,Electronics,Samsung Galaxy S24,3681.3,4,14725.2,Mada
+120,2025-07-22,Medina,Apparel,Sports Sneakers,312.57,5,1562.85,Visa
+121,2025-05-26,Medina,Apparel,Sports Sneakers,135.7,2,271.4,Mastercard
+122,2026-03-26,Makkah,Groceries,Basmati Rice,42.38,3,127.14,Apple Pay
+123,2026-05-21,Dammam,Groceries,Honey Pure,98.8,5,494.0,Mada
+124,2025-09-14,Khobar,Home & Kitchen,Vacuum Cleaner,177.16,2,354.32,Cash
+125,2025-02-11,Makkah,Electronics,Sony Headphones,3933.99,2,7867.98,Apple Pay
+126,2025-07-05,Makkah,Beauty,Sunscreen,448.78,4,1795.12,Apple Pay
+127,2026-02-23,Riyadh,Beauty,Sunscreen,183.32,1,183.32,Visa
+128,2025-10-23,Dammam,Beauty,Beard Oil,315.03,4,1260.12,Cash
+129,2025-11-19,Riyadh,Beauty,Oud Perfume,150.96,1,150.96,Apple Pay
+130,2026-04-19,Makkah,Electronics,Smart Watch,2359.61,2,4719.22,Cash
+131,2026-03-29,Dammam,Groceries,Arabic Coffee Beans,156.8,2,313.6,Mastercard
+132,2026-03-25,Makkah,Apparel,Sports Sneakers,540.42,4,2161.68,Mada
+133,2025-06-12,Riyadh,Groceries,Olive Oil,75.94,1,75.94,Cash
+134,2025-04-27,Khobar,Electronics,Samsung Galaxy S24,2576.52,1,2576.52,Visa
+135,2025-10-07,Khobar,Home & Kitchen,Vacuum Cleaner,586.26,4,2345.04,Apple Pay
+136,2025-05-29,Jeddah,Beauty,Gift Set,203.43,5,1017.15,Cash
+137,2025-10-10,Medina,Apparel,Thobe Classic,486.34,4,1945.36,Mastercard
+138,2025-10-17,Makkah,Home & Kitchen,Arabic Coffee Maker,912.35,5,4561.75,Cash
+139,2026-04-03,Medina,Beauty,Moisturizer,265.43,3,796.29,Mastercard
+140,2026-04-12,Makkah,Groceries,Arabic Coffee Beans,187.91,2,375.82,Visa
+141,2026-02-25,Makkah,Beauty,Moisturizer,67.46,4,269.84,Apple Pay
+142,2025-02-07,Khobar,Apparel,Leather Sandals,163.12,5,815.6,Mastercard
+143,2026-06-23,Riyadh,Beauty,Oud Perfume,414.18,1,414.18,Visa
+144,2026-04-26,Khobar,Apparel,Thobe Classic,490.76,3,1472.28,Mastercard
+145,2025-12-03,Makkah,Beauty,Oud Perfume,390.94,5,1954.7,Apple Pay
+146,2025-02-06,Dammam,Beauty,Gift Set,296.98,2,593.96,Mastercard
+147,2025-04-11,Jeddah,Electronics,iPad Air,3921.66,1,3921.66,Apple Pay
+148,2025-02-17,Jeddah,Home & Kitchen,Arabic Coffee Maker,490.59,1,490.59,Mastercard
+149,2025-05-30,Dammam,Home & Kitchen,Dinner Set,406.41,4,1625.64,Cash
+150,2025-06-29,Medina,Apparel,Abaya Modern,139.48,4,557.92,Cash
+151,2025-05-27,Medina,Apparel,Leather Sandals,216.09,3,648.27,Apple Pay
+152,2025-10-22,Dammam,Electronics,iPad Air,3549.25,2,7098.5,Mada
+153,2025-11-03,Khobar,Home & Kitchen,Vacuum Cleaner,820.89,4,3283.56,Mastercard
+154,2026-01-29,Khobar,Home & Kitchen,Air Fryer,1046.0,1,1046.0,Visa
+155,2025-10-30,Khobar,Groceries,Basmati Rice,198.68,3,596.04,Mada
+156,2025-01-09,Medina,Beauty,Sunscreen,276.37,1,276.37,Cash
+157,2025-08-24,Medina,Beauty,Sunscreen,292.83,3,878.49,Visa
+158,2025-09-14,Medina,Apparel,Formal Suit,438.88,2,877.76,Mada
+159,2026-03-28,Medina,Electronics,Sony Headphones,650.14,3,1950.42,Visa
+160,2026-03-02,Riyadh,Home & Kitchen,Blender,334.42,2,668.84,Cash
+161,2025-10-07,Dammam,Groceries,Honey Pure,169.49,3,508.47,Apple Pay
+162,2026-04-25,Dammam,Home & Kitchen,Arabic Coffee Maker,1161.04,2,2322.08,Visa
+163,2026-01-10,Medina,Beauty,Gift Set,86.12,4,344.48,Mada
+164,2026-04-11,Dammam,Groceries,Dates Premium,86.35,3,259.05,Cash
+165,2025-08-28,Khobar,Home & Kitchen,Arabic Coffee Maker,645.05,5,3225.25,Cash
+166,2025-03-06,Dammam,Groceries,Olive Oil,134.37,4,537.48,Mastercard
+167,2025-05-24,Medina,Beauty,Oud Perfume,68.14,1,68.14,Mastercard
+168,2025-08-29,Khobar,Electronics,iPhone 15,4492.67,2,8985.34,Apple Pay
+169,2026-03-06,Khobar,Home & Kitchen,Vacuum Cleaner,766.71,2,1533.42,Apple Pay
+170,2026-02-22,Medina,Electronics,iPad Air,4725.74,3,14177.22,Mada
+171,2026-03-31,Medina,Home & Kitchen,Air Fryer,616.93,2,1233.86,Mastercard
+172,2026-01-03,Riyadh,Home & Kitchen,Vacuum Cleaner,213.58,3,640.74,Visa
+173,2025-08-06,Riyadh,Beauty,Oud Perfume,306.68,5,1533.4,Mada
+174,2025-05-09,Riyadh,Home & Kitchen,Air Fryer,976.33,2,1952.66,Mada
+175,2025-08-10,Makkah,Apparel,Formal Suit,506.53,2,1013.06,Mastercard
+176,2025-10-11,Jeddah,Groceries,Dates Premium,174.51,2,349.02,Visa
+177,2025-04-23,Makkah,Home & Kitchen,Air Fryer,844.11,1,844.11,Visa
+178,2025-11-28,Riyadh,Home & Kitchen,Air Fryer,166.57,3,499.71,Mada
+179,2025-04-27,Jeddah,Beauty,Gift Set,348.27,4,1393.08,Apple Pay
+180,2025-04-22,Dammam,Groceries,Honey Pure,101.36,2,202.72,Cash
+181,2026-04-15,Riyadh,Groceries,Basmati Rice,135.8,1,135.8,Mada
+182,2025-04-21,Khobar,Beauty,Beard Oil,246.11,4,984.44,Mada
+183,2025-06-01,Riyadh,Home & Kitchen,Vacuum Cleaner,218.97,3,656.91,Cash
+184,2025-11-29,Medina,Groceries,Honey Pure,88.56,5,442.8,Cash
+185,2026-03-17,Dammam,Beauty,Gift Set,89.67,1,89.67,Cash
+186,2026-04-08,Medina,Apparel,Leather Sandals,544.05,4,2176.2,Mastercard
+187,2025-04-08,Khobar,Beauty,Beard Oil,175.02,3,525.06,Mastercard
+188,2025-03-10,Dammam,Apparel,Leather Sandals,145.61,1,145.61,Mada
+189,2025-05-14,Khobar,Electronics,Sony Headphones,3003.67,5,15018.35,Cash
+190,2026-02-25,Makkah,Home & Kitchen,Arabic Coffee Maker,521.28,4,2085.12,Mada
+191,2025-12-27,Dammam,Groceries,Basmati Rice,38.65,5,193.25,Visa
+192,2025-04-21,Jeddah,Beauty,Moisturizer,190.05,5,950.25,Mastercard
+193,2025-08-20,Riyadh,Home & Kitchen,Vacuum Cleaner,997.58,5,4987.9,Cash
+194,2025-10-01,Makkah,Groceries,Dates Premium,25.21,3,75.63,Mastercard
+195,2025-07-05,Dammam,Home & Kitchen,Arabic Coffee Maker,1063.36,5,5316.8,Apple Pay
+196,2025-04-04,Riyadh,Apparel,Thobe Classic,473.06,2,946.12,Apple Pay
+197,2025-06-11,Khobar,Beauty,Sunscreen,198.02,3,594.06,Cash
+198,2025-06-09,Makkah,Electronics,iPhone 15,1208.34,5,6041.7,Mada
+199,2026-03-30,Medina,Electronics,Sony Headphones,3478.72,4,13914.88,Cash
+200,2025-08-09,Khobar,Beauty,Sunscreen,351.98,1,351.98,Mastercard
+201,2026-05-14,Khobar,Electronics,Sony Headphones,2871.2,3,8613.6,Mada
+202,2025-02-26,Jeddah,Beauty,Gift Set,53.07,3,159.21,Visa
+203,2025-12-02,Jeddah,Home & Kitchen,Blender,275.98,4,1103.92,Apple Pay
+204,2026-06-30,Jeddah,Apparel,Leather Sandals,451.84,5,2259.2,Cash
+205,2026-02-11,Medina,Home & Kitchen,Arabic Coffee Maker,1054.85,1,1054.85,Apple Pay
+206,2025-11-17,Riyadh,Beauty,Oud Perfume,280.3,5,1401.5,Apple Pay
+207,2025-04-28,Medina,Beauty,Sunscreen,212.01,3,636.03,Visa
+208,2025-04-01,Makkah,Beauty,Sunscreen,224.68,1,224.68,Visa
+209,2026-06-21,Khobar,Groceries,Arabic Coffee Beans,34.16,3,102.48,Mastercard
+210,2025-03-20,Jeddah,Home & Kitchen,Air Fryer,686.01,1,686.01,Cash
+211,2025-12-26,Makkah,Apparel,Sports Sneakers,463.69,2,927.38,Visa
+212,2025-07-22,Riyadh,Apparel,Sports Sneakers,186.75,2,373.5,Mada
+213,2026-04-05,Jeddah,Beauty,Beard Oil,322.45,5,1612.25,Cash
+214,2026-03-27,Dammam,Home & Kitchen,Air Fryer,221.7,4,886.8,Mastercard
+215,2025-12-27,Dammam,Groceries,Dates Premium,111.32,3,333.96,Apple Pay
+216,2026-01-13,Khobar,Electronics,iPhone 15,4242.63,1,4242.63,Mada
+217,2026-01-29,Makkah,Groceries,Honey Pure,103.29,5,516.45,Mada
+218,2025-11-26,Khobar,Groceries,Olive Oil,128.9,5,644.5,Visa
+219,2025-12-18,Riyadh,Beauty,Oud Perfume,442.95,1,442.95,Cash
+220,2025-09-11,Medina,Apparel,Thobe Classic,453.81,4,1815.24,Cash
+221,2026-01-08,Makkah,Groceries,Olive Oil,87.11,3,261.33,Apple Pay
+222,2025-02-23,Khobar,Home & Kitchen,Vacuum Cleaner,978.69,3,2936.07,Mada
+223,2026-01-31,Dammam,Electronics,Smart Watch,1778.66,5,8893.3,Visa
+224,2025-05-25,Dammam,Electronics,Smart Watch,4625.36,3,13876.08,Apple Pay
+225,2025-11-14,Jeddah,Groceries,Dates Premium,120.61,3,361.83,Visa
+226,2026-03-10,Medina,Groceries,Dates Premium,111.53,1,111.53,Mastercard
+227,2025-12-16,Dammam,Apparel,Abaya Modern,573.83,4,2295.32,Visa
+228,2025-03-21,Jeddah,Apparel,Abaya Modern,247.9,1,247.9,Cash
+229,2025-12-11,Makkah,Groceries,Dates Premium,177.75,5,888.75,Visa
+230,2025-06-16,Makkah,Beauty,Moisturizer,122.34,5,611.7,Visa
+231,2026-02-25,Medina,Beauty,Oud Perfume,195.72,2,391.44,Apple Pay
+232,2025-08-28,Makkah,Home & Kitchen,Dinner Set,710.71,3,2132.13,Apple Pay
+233,2026-03-28,Jeddah,Home & Kitchen,Vacuum Cleaner,634.76,3,1904.28,Apple Pay
+234,2025-06-15,Makkah,Groceries,Arabic Coffee Beans,167.04,5,835.2,Visa
+235,2026-01-16,Dammam,Electronics,iPad Air,2995.43,1,2995.43,Cash
+236,2025-06-14,Riyadh,Home & Kitchen,Arabic Coffee Maker,436.43,5,2182.15,Visa
+237,2026-04-07,Khobar,Electronics,Samsung Galaxy S24,4480.83,1,4480.83,Apple Pay
+238,2026-01-18,Riyadh,Beauty,Gift Set,144.31,1,144.31,Mastercard
+239,2025-04-12,Jeddah,Electronics,Sony Headphones,4276.29,3,12828.87,Visa
+240,2026-04-29,Jeddah,Electronics,Sony Headphones,3632.32,2,7264.64,Apple Pay
+241,2025-03-23,Khobar,Groceries,Dates Premium,23.42,2,46.84,Visa
+242,2026-03-10,Makkah,Groceries,Honey Pure,40.01,3,120.03,Visa
+243,2025-09-02,Dammam,Electronics,iPhone 15,2389.21,5,11946.05,Apple Pay
+244,2025-01-17,Riyadh,Electronics,iPad Air,3343.8,5,16719.0,Visa
+245,2026-03-16,Medina,Apparel,Sports Sneakers,100.78,3,302.34,Visa
+246,2025-03-29,Makkah,Beauty,Moisturizer,259.39,3,778.17,Mada
+247,2026-06-04,Makkah,Groceries,Honey Pure,119.75,4,479.0,Apple Pay
+248,2025-09-17,Riyadh,Beauty,Sunscreen,348.93,3,1046.79,Mada
+249,2025-12-07,Dammam,Apparel,Thobe Classic,166.7,3,500.1,Cash
+250,2026-05-06,Dammam,Apparel,Leather Sandals,415.87,2,831.74,Mada
+251,2025-10-28,Medina,Beauty,Oud Perfume,130.64,2,261.28,Mada
+252,2026-02-12,Dammam,Home & Kitchen,Vacuum Cleaner,1188.58,5,5942.9,Apple Pay
+253,2025-10-20,Dammam,Electronics,Samsung Galaxy S24,2106.38,1,2106.38,Mastercard
+254,2026-03-24,Dammam,Electronics,Sony Headphones,4502.69,4,18010.76,Apple Pay
+255,2026-05-25,Dammam,Apparel,Leather Sandals,283.67,5,1418.35,Mastercard
+256,2026-03-17,Riyadh,Beauty,Oud Perfume,290.98,2,581.96,Cash
+257,2025-03-23,Dammam,Home & Kitchen,Arabic Coffee Maker,494.32,3,1482.96,Mastercard
+258,2025-06-20,Khobar,Groceries,Arabic Coffee Beans,144.16,3,432.48,Apple Pay
+259,2026-03-22,Riyadh,Home & Kitchen,Vacuum Cleaner,438.28,1,438.28,Mada
+260,2026-06-10,Medina,Beauty,Sunscreen,370.44,2,740.88,Mada
+261,2025-02-05,Jeddah,Groceries,Arabic Coffee Beans,42.72,2,85.44,Mastercard
+262,2025-02-03,Dammam,Beauty,Gift Set,292.04,4,1168.16,Mastercard
+263,2025-05-21,Dammam,Beauty,Oud Perfume,261.78,4,1047.12,Mastercard
+264,2025-04-27,Medina,Home & Kitchen,Air Fryer,177.21,2,354.42,Apple Pay
+265,2025-05-01,Makkah,Beauty,Gift Set,154.71,3,464.13,Apple Pay
+266,2026-05-18,Jeddah,Groceries,Basmati Rice,56.03,2,112.06,Mada
+267,2025-03-31,Khobar,Apparel,Leather Sandals,505.26,3,1515.78,Mastercard
+268,2025-10-25,Medina,Electronics,Smart Watch,4510.99,2,9021.98,Visa
+269,2025-05-05,Dammam,Groceries,Olive Oil,197.32,2,394.64,Visa
+270,2026-01-13,Khobar,Electronics,Sony Headphones,2603.33,5,13016.65,Visa
+271,2025-11-13,Makkah,Electronics,iPhone 15,2291.72,4,9166.88,Cash
+272,2025-03-17,Khobar,Beauty,Gift Set,100.13,3,300.39,Mada
+273,2025-12-19,Khobar,Beauty,Gift Set,101.33,5,506.65,Cash
+274,2026-05-30,Jeddah,Apparel,Leather Sandals,555.36,1,555.36,Mada
+275,2025-06-18,Makkah,Apparel,Sports Sneakers,180.98,2,361.96,Mastercard
+276,2025-09-14,Makkah,Home & Kitchen,Arabic Coffee Maker,356.12,5,1780.6,Mastercard
+277,2025-04-06,Jeddah,Home & Kitchen,Vacuum Cleaner,677.7,2,1355.4,Cash
+278,2025-12-12,Makkah,Apparel,Abaya Modern,521.27,5,2606.35,Mada
+279,2025-09-29,Riyadh,Electronics,iPhone 15,3430.08,5,17150.4,Apple Pay
+280,2025-10-24,Makkah,Electronics,iPad Air,3388.58,3,10165.74,Apple Pay
+281,2026-04-10,Jeddah,Beauty,Sunscreen,79.19,1,79.19,Visa
+282,2026-04-21,Khobar,Beauty,Beard Oil,131.61,5,658.05,Visa
+283,2026-02-13,Dammam,Home & Kitchen,Blender,287.3,3,861.9,Cash
+284,2025-09-05,Makkah,Electronics,Sony Headphones,2599.13,3,7797.39,Apple Pay
+285,2025-02-21,Jeddah,Apparel,Thobe Classic,245.11,4,980.44,Cash
+286,2025-12-02,Khobar,Apparel,Abaya Modern,566.88,3,1700.64,Visa
+287,2026-04-24,Jeddah,Beauty,Gift Set,249.5,3,748.5,Apple Pay
+288,2026-06-02,Riyadh,Electronics,iPad Air,2557.54,2,5115.08,Visa
+289,2025-02-21,Makkah,Home & Kitchen,Arabic Coffee Maker,445.42,5,2227.1,Apple Pay
+290,2025-04-21,Dammam,Groceries,Dates Premium,97.57,3,292.71,Mastercard
+291,2026-02-15,Khobar,Home & Kitchen,Arabic Coffee Maker,203.72,5,1018.6,Visa
+292,2025-03-17,Dammam,Groceries,Basmati Rice,89.54,4,358.16,Cash
+293,2025-05-02,Dammam,Groceries,Honey Pure,43.16,1,43.16,Apple Pay
+294,2026-01-10,Dammam,Home & Kitchen,Vacuum Cleaner,942.71,2,1885.42,Cash
+295,2025-02-11,Makkah,Beauty,Gift Set,68.12,2,136.24,Mastercard
+296,2025-06-02,Khobar,Groceries,Arabic Coffee Beans,129.13,5,645.65,Visa
+297,2025-06-16,Dammam,Groceries,Basmati Rice,90.73,5,453.65,Mastercard
+298,2026-06-06,Makkah,Home & Kitchen,Vacuum Cleaner,708.96,5,3544.8,Mastercard
+299,2025-12-06,Khobar,Electronics,Sony Headphones,3532.13,4,14128.52,Cash
+300,2026-05-01,Dammam,Electronics,Smart Watch,1694.89,5,8474.45,Cash
+301,2026-05-07,Jeddah,Electronics,Smart Watch,1267.3,5,6336.5,Apple Pay
+302,2025-04-23,Jeddah,Apparel,Thobe Classic,195.39,4,781.56,Mastercard
+303,2025-07-28,Khobar,Apparel,Leather Sandals,305.19,5,1525.95,Apple Pay
+304,2026-06-16,Medina,Electronics,Samsung Galaxy S24,1433.04,3,4299.12,Apple Pay
+305,2025-06-27,Makkah,Beauty,Sunscreen,233.87,5,1169.35,Mastercard
+306,2026-05-11,Makkah,Home & Kitchen,Blender,351.88,2,703.76,Mastercard
+307,2025-11-01,Makkah,Home & Kitchen,Air Fryer,959.73,2,1919.46,Apple Pay
+308,2025-10-08,Dammam,Beauty,Sunscreen,165.12,5,825.6,Cash
+309,2025-05-30,Khobar,Beauty,Sunscreen,166.18,3,498.54,Mada
+310,2026-05-06,Dammam,Beauty,Sunscreen,135.59,5,677.95,Mastercard
+311,2025-04-22,Makkah,Home & Kitchen,Air Fryer,796.46,5,3982.3,Visa
+312,2025-08-20,Jeddah,Electronics,Smart Watch,3370.75,1,3370.75,Mada
+313,2025-04-13,Khobar,Home & Kitchen,Dinner Set,865.25,2,1730.5,Mada
+314,2026-05-03,Makkah,Apparel,Leather Sandals,338.72,2,677.44,Mastercard
+315,2025-04-02,Dammam,Home & Kitchen,Arabic Coffee Maker,834.91,2,1669.82,Cash
+316,2026-03-04,Medina,Electronics,Samsung Galaxy S24,4470.1,2,8940.2,Mada
+317,2025-10-24,Khobar,Beauty,Moisturizer,400.7,1,400.7,Mastercard
+318,2025-12-10,Makkah,Groceries,Dates Premium,71.22,5,356.1,Cash
+319,2026-04-25,Khobar,Apparel,Formal Suit,236.42,1,236.42,Mastercard
+320,2025-07-10,Jeddah,Beauty,Sunscreen,55.63,3,166.89,Mastercard
+321,2026-02-20,Makkah,Apparel,Abaya Modern,513.49,5,2567.45,Mastercard
+322,2025-07-09,Riyadh,Beauty,Oud Perfume,442.67,4,1770.68,Mastercard
+323,2026-01-28,Jeddah,Electronics,Sony Headphones,1559.85,3,4679.55,Mastercard
+324,2025-01-12,Dammam,Groceries,Honey Pure,67.08,3,201.24,Visa
+325,2025-11-11,Riyadh,Electronics,iPad Air,1218.73,5,6093.65,Mastercard
+326,2026-01-12,Medina,Electronics,Sony Headphones,3265.81,2,6531.62,Visa
+327,2026-01-18,Khobar,Apparel,Leather Sandals,307.92,5,1539.6,Apple Pay
+328,2025-03-25,Makkah,Apparel,Abaya Modern,362.75,5,1813.75,Mastercard
+329,2025-03-05,Riyadh,Groceries,Dates Premium,169.18,5,845.9,Visa
+330,2025-06-18,Makkah,Groceries,Olive Oil,79.06,5,395.3,Apple Pay
+331,2026-05-16,Riyadh,Apparel,Formal Suit,145.47,5,727.35,Apple Pay
+332,2026-06-10,Riyadh,Beauty,Moisturizer,216.17,5,1080.85,Mada
+333,2025-01-23,Makkah,Beauty,Sunscreen,208.38,1,208.38,Visa
+334,2026-03-10,Makkah,Electronics,iPhone 15,2050.38,1,2050.38,Cash
+335,2025-02-02,Riyadh,Electronics,iPad Air,1791.91,2,3583.82,Visa
+336,2026-01-27,Medina,Beauty,Sunscreen,229.41,4,917.64,Apple Pay
+337,2025-12-23,Riyadh,Groceries,Olive Oil,41.35,5,206.75,Apple Pay
+338,2025-01-04,Makkah,Apparel,Abaya Modern,478.09,3,1434.27,Apple Pay
+339,2026-06-29,Medina,Groceries,Arabic Coffee Beans,88.27,2,176.54,Visa
+340,2025-10-10,Khobar,Home & Kitchen,Air Fryer,347.9,1,347.9,Mada
+341,2025-01-17,Medina,Beauty,Gift Set,146.27,1,146.27,Mada
+342,2025-02-19,Makkah,Electronics,iPad Air,1601.3,1,1601.3,Apple Pay
+343,2025-08-11,Khobar,Apparel,Formal Suit,477.19,1,477.19,Visa
+344,2025-11-23,Makkah,Home & Kitchen,Air Fryer,756.35,3,2269.05,Visa
+345,2025-08-15,Dammam,Apparel,Formal Suit,306.78,3,920.34,Mada
+346,2026-03-14,Makkah,Groceries,Olive Oil,120.05,1,120.05,Mastercard
+347,2025-11-23,Medina,Beauty,Gift Set,328.52,4,1314.08,Visa
+348,2026-04-30,Dammam,Beauty,Moisturizer,146.39,2,292.78,Mastercard
+349,2025-03-01,Medina,Apparel,Leather Sandals,381.19,4,1524.76,Cash
+350,2025-09-06,Makkah,Apparel,Leather Sandals,227.5,3,682.5,Mada
+351,2025-07-15,Khobar,Home & Kitchen,Arabic Coffee Maker,204.11,4,816.44,Cash
+352,2025-07-12,Makkah,Electronics,iPhone 15,4120.93,5,20604.65,Cash
+353,2025-12-07,Jeddah,Beauty,Moisturizer,171.28,1,171.28,Visa
+354,2025-09-06,Jeddah,Electronics,iPad Air,3630.32,2,7260.64,Apple Pay
+355,2025-10-17,Jeddah,Groceries,Basmati Rice,88.52,5,442.6,Mastercard
+356,2026-06-10,Dammam,Home & Kitchen,Blender,1076.95,4,4307.8,Mada
+357,2025-07-28,Medina,Beauty,Sunscreen,198.28,4,793.12,Mada
+358,2025-01-17,Makkah,Apparel,Abaya Modern,230.39,5,1151.95,Cash
+359,2025-06-06,Medina,Beauty,Sunscreen,128.48,2,256.96,Apple Pay
+360,2025-12-12,Makkah,Apparel,Leather Sandals,228.66,4,914.64,Apple Pay
+361,2025-06-23,Khobar,Apparel,Sports Sneakers,169.98,5,849.9,Apple Pay
+362,2026-06-21,Jeddah,Groceries,Dates Premium,26.09,1,26.09,Mada
+363,2025-08-25,Riyadh,Beauty,Moisturizer,77.19,2,154.38,Mada
+364,2026-01-18,Jeddah,Groceries,Arabic Coffee Beans,30.88,5,154.4,Apple Pay
+365,2025-01-07,Medina,Beauty,Oud Perfume,262.88,4,1051.52,Mada
+366,2025-10-21,Riyadh,Groceries,Basmati Rice,23.09,4,92.36,Visa
+367,2025-06-02,Riyadh,Electronics,Smart Watch,1584.36,5,7921.8,Cash
+368,2026-02-11,Dammam,Home & Kitchen,Blender,232.97,4,931.88,Apple Pay
+369,2025-11-04,Makkah,Apparel,Abaya Modern,442.02,1,442.02,Mada
+370,2026-01-22,Riyadh,Beauty,Beard Oil,271.08,1,271.08,Mada
+371,2026-05-27,Medina,Apparel,Thobe Classic,522.66,3,1567.98,Cash
+372,2025-08-24,Riyadh,Groceries,Dates Premium,58.06,5,290.3,Apple Pay
+373,2025-10-15,Dammam,Electronics,iPhone 15,4546.9,5,22734.5,Mada
+374,2025-08-01,Jeddah,Home & Kitchen,Arabic Coffee Maker,766.39,4,3065.56,Mada
+375,2025-09-04,Dammam,Apparel,Formal Suit,383.35,4,1533.4,Cash
+376,2025-03-22,Dammam,Beauty,Moisturizer,250.32,3,750.96,Mada
+377,2025-03-19,Riyadh,Beauty,Moisturizer,186.24,5,931.2,Cash
+378,2025-10-07,Khobar,Home & Kitchen,Arabic Coffee Maker,972.73,4,3890.92,Apple Pay
+379,2026-01-20,Jeddah,Home & Kitchen,Vacuum Cleaner,603.44,5,3017.2,Apple Pay
+380,2025-09-10,Riyadh,Groceries,Basmati Rice,148.36,1,148.36,Mastercard
+381,2026-02-03,Jeddah,Beauty,Moisturizer,176.67,1,176.67,Mada
+382,2026-01-04,Riyadh,Home & Kitchen,Dinner Set,949.41,1,949.41,Visa
+383,2026-04-05,Riyadh,Apparel,Leather Sandals,378.49,5,1892.45,Apple Pay
+384,2025-12-29,Riyadh,Electronics,iPhone 15,2993.99,5,14969.95,Cash
+385,2025-10-26,Dammam,Beauty,Oud Perfume,215.52,1,215.52,Cash
+386,2025-06-23,Jeddah,Groceries,Honey Pure,143.36,2,286.72,Visa
+387,2026-05-20,Dammam,Home & Kitchen,Blender,303.23,2,606.46,Apple Pay
+388,2026-05-11,Dammam,Beauty,Sunscreen,363.07,3,1089.21,Mastercard
+389,2025-07-20,Jeddah,Beauty,Gift Set,233.14,2,466.28,Mastercard
+390,2026-01-25,Riyadh,Beauty,Sunscreen,371.63,3,1114.89,Apple Pay
+391,2025-05-20,Dammam,Beauty,Gift Set,170.17,5,850.85,Visa
+392,2026-02-12,Khobar,Home & Kitchen,Air Fryer,1167.16,3,3501.48,Apple Pay
+393,2026-01-21,Makkah,Apparel,Sports Sneakers,240.15,4,960.6,Mastercard
+394,2025-07-04,Riyadh,Groceries,Olive Oil,142.71,5,713.55,Mada
+395,2026-03-25,Medina,Beauty,Moisturizer,369.07,1,369.07,Apple Pay
+396,2025-11-07,Medina,Beauty,Moisturizer,146.81,2,293.62,Apple Pay
+397,2026-05-06,Khobar,Electronics,iPad Air,3120.1,5,15600.5,Cash
+398,2025-02-07,Medina,Beauty,Gift Set,366.29,3,1098.87,Cash
+399,2025-09-12,Makkah,Electronics,iPhone 15,3459.21,3,10377.63,Visa
+400,2026-02-14,Medina,Groceries,Dates Premium,194.03,3,582.09,Apple Pay
+401,2025-09-22,Riyadh,Electronics,iPhone 15,1499.0,5,7495.0,Cash
+402,2026-04-02,Makkah,Groceries,Olive Oil,87.34,4,349.36,Cash
+403,2025-12-20,Medina,Groceries,Olive Oil,199.59,4,798.36,Mada
+404,2025-04-29,Dammam,Beauty,Oud Perfume,382.53,2,765.06,Mastercard
+405,2025-07-31,Dammam,Home & Kitchen,Dinner Set,697.17,3,2091.51,Apple Pay
+406,2025-11-23,Riyadh,Beauty,Beard Oil,76.87,1,76.87,Mada
+407,2025-06-18,Riyadh,Home & Kitchen,Arabic Coffee Maker,1126.42,2,2252.84,Cash
+408,2025-12-05,Jeddah,Groceries,Olive Oil,120.77,4,483.08,Visa
+409,2026-03-19,Khobar,Apparel,Abaya Modern,297.79,5,1488.95,Visa
+410,2026-02-03,Khobar,Groceries,Arabic Coffee Beans,20.8,2,41.6,Visa
+411,2025-04-15,Dammam,Electronics,Smart Watch,4097.76,5,20488.8,Visa
+412,2026-04-14,Dammam,Home & Kitchen,Air Fryer,269.65,4,1078.6,Cash
+413,2026-02-02,Medina,Home & Kitchen,Vacuum Cleaner,791.87,5,3959.35,Mada
+414,2025-06-26,Dammam,Home & Kitchen,Dinner Set,1004.43,3,3013.29,Cash
+415,2025-11-17,Makkah,Electronics,Samsung Galaxy S24,1030.38,3,3091.14,Mada
+416,2026-06-08,Jeddah,Home & Kitchen,Air Fryer,557.89,5,2789.45,Visa
+417,2025-07-10,Makkah,Beauty,Beard Oil,244.67,5,1223.35,Visa
+418,2025-10-23,Makkah,Apparel,Leather Sandals,170.15,3,510.45,Apple Pay
+419,2025-01-10,Makkah,Electronics,Sony Headphones,2680.74,2,5361.48,Apple Pay
+420,2026-02-23,Makkah,Groceries,Arabic Coffee Beans,143.25,4,573.0,Apple Pay
+421,2025-02-01,Khobar,Apparel,Thobe Classic,497.94,2,995.88,Mastercard
+422,2025-10-23,Riyadh,Home & Kitchen,Air Fryer,326.62,4,1306.48,Cash
+423,2026-06-08,Medina,Beauty,Gift Set,95.28,1,95.28,Mastercard
+424,2025-02-12,Makkah,Home & Kitchen,Vacuum Cleaner,948.0,4,3792.0,Cash
+425,2025-09-11,Jeddah,Beauty,Oud Perfume,169.08,1,169.08,Apple Pay
+426,2026-03-26,Dammam,Home & Kitchen,Arabic Coffee Maker,1058.55,1,1058.55,Visa
+427,2026-03-15,Jeddah,Groceries,Basmati Rice,49.88,2,99.76,Visa
+428,2025-12-26,Jeddah,Electronics,Smart Watch,2895.26,5,14476.3,Cash
+429,2025-10-24,Jeddah,Home & Kitchen,Blender,751.37,5,3756.85,Mada
+430,2025-10-11,Jeddah,Beauty,Oud Perfume,396.82,2,793.64,Visa
+431,2025-09-11,Jeddah,Apparel,Sports Sneakers,480.74,4,1922.96,Apple Pay
+432,2026-03-01,Jeddah,Groceries,Basmati Rice,87.53,1,87.53,Mada
+433,2026-01-13,Khobar,Groceries,Basmati Rice,101.85,4,407.4,Mastercard
+434,2026-04-15,Makkah,Electronics,iPhone 15,3356.78,3,10070.34,Mada
+435,2026-03-16,Makkah,Beauty,Moisturizer,379.94,4,1519.76,Mastercard
+436,2025-05-14,Dammam,Home & Kitchen,Blender,744.45,4,2977.8,Mastercard
+437,2025-04-12,Medina,Electronics,iPhone 15,3317.81,4,13271.24,Mada
+438,2026-04-13,Riyadh,Apparel,Leather Sandals,100.34,4,401.36,Visa
+439,2025-06-12,Medina,Apparel,Sports Sneakers,537.21,3,1611.63,Mada
+440,2025-03-26,Medina,Home & Kitchen,Blender,540.44,2,1080.88,Mada
+441,2026-03-16,Khobar,Home & Kitchen,Air Fryer,838.26,1,838.26,Mada
+442,2025-05-16,Jeddah,Beauty,Oud Perfume,287.47,5,1437.35,Apple Pay
+443,2025-05-04,Riyadh,Electronics,Sony Headphones,4946.7,4,19786.8,Visa
+444,2026-01-28,Khobar,Electronics,Samsung Galaxy S24,901.99,1,901.99,Mada
+445,2025-05-21,Dammam,Home & Kitchen,Blender,551.86,2,1103.72,Visa
+446,2025-01-09,Riyadh,Groceries,Honey Pure,129.86,2,259.72,Apple Pay
+447,2026-02-26,Dammam,Apparel,Abaya Modern,408.04,4,1632.16,Visa
+448,2025-05-07,Riyadh,Electronics,Samsung Galaxy S24,3153.08,4,12612.32,Mastercard
+449,2025-09-11,Khobar,Home & Kitchen,Air Fryer,440.82,1,440.82,Visa
+450,2025-10-19,Makkah,Groceries,Honey Pure,160.21,1,160.21,Mastercard
+451,2026-06-06,Jeddah,Groceries,Honey Pure,53.96,4,215.84,Mastercard
+452,2026-05-22,Medina,Electronics,Samsung Galaxy S24,2236.49,2,4472.98,Apple Pay
+453,2026-06-25,Medina,Groceries,Dates Premium,179.97,1,179.97,Mastercard
+454,2026-03-07,Dammam,Apparel,Leather Sandals,282.71,2,565.42,Apple Pay
+455,2025-03-11,Riyadh,Electronics,Smart Watch,562.07,2,1124.14,Mada
+456,2025-10-21,Riyadh,Beauty,Gift Set,301.43,5,1507.15,Apple Pay
+457,2025-06-06,Khobar,Beauty,Oud Perfume,160.99,3,482.97,Mada
+458,2025-12-01,Makkah,Apparel,Abaya Modern,295.37,1,295.37,Mastercard
+459,2025-03-01,Medina,Beauty,Moisturizer,147.79,4,591.16,Mada
+460,2025-02-26,Khobar,Groceries,Honey Pure,75.67,2,151.34,Mada
+461,2025-06-17,Riyadh,Apparel,Thobe Classic,348.21,3,1044.63,Cash
+462,2026-01-16,Makkah,Home & Kitchen,Air Fryer,283.28,3,849.84,Mada
+463,2025-10-06,Riyadh,Home & Kitchen,Dinner Set,700.05,3,2100.15,Cash
+464,2026-04-12,Medina,Electronics,iPad Air,2798.52,1,2798.52,Apple Pay
+465,2025-06-11,Makkah,Apparel,Sports Sneakers,227.56,1,227.56,Cash
+466,2026-06-06,Medina,Electronics,Samsung Galaxy S24,511.56,1,511.56,Visa
+467,2026-01-28,Riyadh,Beauty,Sunscreen,418.09,2,836.18,Mada
+468,2025-11-26,Makkah,Beauty,Moisturizer,149.31,3,447.93,Mastercard
+469,2025-05-03,Riyadh,Groceries,Basmati Rice,110.37,1,110.37,Visa
+470,2026-02-15,Jeddah,Groceries,Dates Premium,32.41,4,129.64,Mastercard
+471,2026-04-13,Dammam,Home & Kitchen,Arabic Coffee Maker,158.37,2,316.74,Mastercard
+472,2025-09-06,Makkah,Home & Kitchen,Vacuum Cleaner,637.12,5,3185.6,Apple Pay
+473,2025-06-04,Jeddah,Groceries,Olive Oil,21.15,4,84.6,Mada
+474,2025-01-10,Jeddah,Groceries,Basmati Rice,191.18,1,191.18,Apple Pay
+475,2025-07-30,Medina,Home & Kitchen,Arabic Coffee Maker,706.31,2,1412.62,Apple Pay
+476,2025-10-14,Khobar,Electronics,Samsung Galaxy S24,918.62,2,1837.24,Cash
+477,2025-03-28,Khobar,Home & Kitchen,Dinner Set,759.81,5,3799.05,Visa
+478,2025-03-05,Medina,Beauty,Oud Perfume,223.99,2,447.98,Visa
+479,2026-02-07,Dammam,Home & Kitchen,Blender,885.76,3,2657.28,Mastercard
+480,2025-03-18,Khobar,Home & Kitchen,Air Fryer,1140.73,2,2281.46,Cash
+481,2025-06-18,Riyadh,Apparel,Thobe Classic,324.78,3,974.34,Apple Pay
+482,2025-08-01,Riyadh,Groceries,Basmati Rice,101.35,4,405.4,Mastercard
+483,2025-11-08,Riyadh,Electronics,Samsung Galaxy S24,4218.74,5,21093.7,Mada
+484,2025-04-04,Jeddah,Home & Kitchen,Air Fryer,896.72,3,2690.16,Apple Pay
+485,2025-09-24,Makkah,Electronics,Sony Headphones,4190.4,2,8380.8,Mada
+486,2025-09-13,Khobar,Beauty,Gift Set,87.89,1,87.89,Visa
+487,2025-08-16,Riyadh,Electronics,iPhone 15,1088.22,4,4352.88,Mastercard
+488,2025-09-23,Medina,Electronics,Smart Watch,4628.43,1,4628.43,Mada
+489,2025-05-12,Riyadh,Apparel,Leather Sandals,145.99,3,437.97,Mada
+490,2025-06-22,Riyadh,Beauty,Oud Perfume,419.65,4,1678.6,Apple Pay
+491,2026-03-13,Khobar,Electronics,iPad Air,1277.63,2,2555.26,Visa
+492,2025-06-02,Dammam,Home & Kitchen,Dinner Set,186.38,5,931.9,Cash
+493,2026-02-26,Jeddah,Home & Kitchen,Dinner Set,1076.92,4,4307.68,Mada
+494,2025-05-21,Riyadh,Home & Kitchen,Dinner Set,590.2,5,2951.0,Visa
+495,2026-01-27,Medina,Groceries,Dates Premium,160.74,3,482.22,Apple Pay
+496,2026-05-30,Makkah,Beauty,Sunscreen,178.64,3,535.92,Visa
+497,2025-08-13,Riyadh,Home & Kitchen,Vacuum Cleaner,180.77,3,542.31,Mada
+498,2025-08-27,Khobar,Groceries,Basmati Rice,195.32,1,195.32,Visa
+499,2025-02-27,Medina,Apparel,Sports Sneakers,482.02,2,964.04,Cash
+500,2025-06-30,Khobar,Home & Kitchen,Air Fryer,398.38,3,1195.14,Mastercard
+501,2025-05-26,Makkah,Electronics,Sony Headphones,3033.99,2,6067.98,Apple Pay
+502,2026-05-18,Makkah,Home & Kitchen,Air Fryer,189.86,1,189.86,Visa
+503,2026-06-24,Makkah,Apparel,Thobe Classic,338.99,3,1016.97,Cash
+504,2025-07-01,Jeddah,Apparel,Sports Sneakers,559.39,3,1678.17,Mada
+505,2025-05-26,Riyadh,Apparel,Formal Suit,487.18,5,2435.9,Mastercard
+506,2025-04-14,Riyadh,Home & Kitchen,Dinner Set,503.39,3,1510.17,Visa
+507,2025-11-21,Jeddah,Beauty,Beard Oil,119.68,5,598.4,Cash
+508,2025-06-29,Dammam,Apparel,Formal Suit,289.19,3,867.57,Visa
+509,2026-02-05,Jeddah,Electronics,Smart Watch,4328.41,5,21642.05,Mada
+510,2025-08-15,Jeddah,Groceries,Basmati Rice,135.14,1,135.14,Apple Pay
+511,2025-09-01,Jeddah,Home & Kitchen,Arabic Coffee Maker,514.15,3,1542.45,Visa
+512,2026-04-03,Medina,Electronics,Sony Headphones,551.28,2,1102.56,Visa
+513,2025-09-20,Medina,Electronics,Sony Headphones,4041.59,1,4041.59,Mada
+514,2025-06-20,Khobar,Beauty,Beard Oil,403.82,4,1615.28,Apple Pay
+515,2025-04-14,Dammam,Groceries,Arabic Coffee Beans,169.19,5,845.95,Visa
+516,2025-02-04,Jeddah,Beauty,Oud Perfume,167.96,3,503.88,Mastercard
+517,2025-06-24,Riyadh,Electronics,Sony Headphones,4495.69,2,8991.38,Mada
+518,2026-05-10,Makkah,Electronics,Sony Headphones,3670.27,4,14681.08,Visa
+519,2025-02-24,Makkah,Beauty,Moisturizer,90.5,2,181.0,Visa
+520,2025-09-29,Khobar,Groceries,Honey Pure,138.91,3,416.73,Visa
+521,2026-05-18,Riyadh,Electronics,iPad Air,1191.15,3,3573.45,Mada
+522,2026-05-07,Khobar,Electronics,Sony Headphones,1398.54,1,1398.54,Visa
+523,2026-04-30,Jeddah,Home & Kitchen,Arabic Coffee Maker,1035.96,3,3107.88,Apple Pay
+524,2025-04-04,Khobar,Beauty,Sunscreen,306.75,4,1227.0,Visa
+525,2025-07-11,Dammam,Beauty,Sunscreen,228.31,3,684.93,Apple Pay
+526,2025-10-03,Khobar,Home & Kitchen,Air Fryer,742.46,2,1484.92,Mada
+527,2026-02-28,Riyadh,Home & Kitchen,Vacuum Cleaner,1169.24,5,5846.2,Visa
+528,2026-06-20,Makkah,Electronics,iPad Air,2383.84,5,11919.2,Apple Pay
+529,2025-11-03,Makkah,Apparel,Leather Sandals,139.48,1,139.48,Cash
+530,2025-05-31,Makkah,Groceries,Honey Pure,41.65,4,166.6,Visa
+531,2025-05-10,Jeddah,Apparel,Abaya Modern,121.34,1,121.34,Apple Pay
+532,2025-09-22,Jeddah,Apparel,Formal Suit,259.87,1,259.87,Mada
+533,2025-11-30,Khobar,Groceries,Arabic Coffee Beans,174.19,5,870.95,Apple Pay
+534,2026-06-20,Riyadh,Groceries,Honey Pure,160.7,1,160.7,Apple Pay
+535,2025-04-13,Jeddah,Apparel,Formal Suit,562.46,5,2812.3,Mada
+536,2026-02-25,Dammam,Groceries,Basmati Rice,67.54,4,270.16,Cash
+537,2025-06-26,Makkah,Beauty,Oud Perfume,160.17,2,320.34,Cash
+538,2026-02-10,Makkah,Beauty,Oud Perfume,405.83,3,1217.49,Visa
+539,2026-01-17,Riyadh,Beauty,Sunscreen,58.09,3,174.27,Mastercard
+540,2025-08-22,Dammam,Beauty,Oud Perfume,103.75,4,415.0,Mastercard
+541,2025-04-02,Dammam,Beauty,Gift Set,125.17,2,250.34,Apple Pay
+542,2026-01-18,Medina,Beauty,Gift Set,378.41,5,1892.05,Visa
+543,2026-02-18,Riyadh,Home & Kitchen,Vacuum Cleaner,292.43,5,1462.15,Cash
+544,2025-07-25,Riyadh,Apparel,Abaya Modern,518.49,2,1036.98,Mada
+545,2025-07-23,Khobar,Electronics,Sony Headphones,1732.9,4,6931.6,Cash
+546,2025-09-05,Khobar,Electronics,iPhone 15,2176.1,5,10880.5,Apple Pay
+547,2025-12-25,Jeddah,Beauty,Gift Set,187.7,3,563.1,Mada
+548,2025-02-20,Dammam,Electronics,iPad Air,1233.08,5,6165.4,Visa
+549,2025-10-03,Jeddah,Apparel,Abaya Modern,425.79,5,2128.95,Mada
+550,2025-05-16,Medina,Electronics,iPad Air,3413.17,5,17065.85,Mada
+551,2025-11-09,Jeddah,Home & Kitchen,Vacuum Cleaner,898.38,3,2695.14,Apple Pay
+552,2025-09-16,Khobar,Home & Kitchen,Dinner Set,379.12,3,1137.36,Cash
+553,2025-04-15,Makkah,Beauty,Gift Set,52.94,3,158.82,Cash
+554,2025-10-17,Medina,Groceries,Honey Pure,73.73,1,73.73,Apple Pay
+555,2025-11-29,Riyadh,Home & Kitchen,Blender,1054.57,3,3163.71,Mastercard
+556,2025-09-04,Jeddah,Apparel,Formal Suit,549.84,5,2749.2,Apple Pay
+557,2025-01-27,Medina,Home & Kitchen,Air Fryer,838.17,3,2514.51,Mastercard
+558,2025-02-06,Khobar,Beauty,Beard Oil,283.21,5,1416.05,Visa
+559,2026-05-03,Dammam,Apparel,Formal Suit,553.26,3,1659.78,Cash
+560,2025-07-05,Dammam,Apparel,Formal Suit,246.89,4,987.56,Visa
+561,2025-07-07,Medina,Home & Kitchen,Vacuum Cleaner,1144.27,3,3432.81,Mada
+562,2025-11-11,Jeddah,Home & Kitchen,Air Fryer,591.5,3,1774.5,Mastercard
+563,2026-04-20,Dammam,Groceries,Basmati Rice,173.22,4,692.88,Mada
+564,2025-03-14,Medina,Groceries,Honey Pure,105.0,2,210.0,Cash
+565,2025-11-02,Riyadh,Beauty,Gift Set,215.24,2,430.48,Visa
+566,2026-04-14,Jeddah,Home & Kitchen,Dinner Set,300.39,2,600.78,Mada
+567,2025-11-17,Khobar,Home & Kitchen,Air Fryer,816.22,1,816.22,Apple Pay
+568,2025-06-12,Dammam,Apparel,Abaya Modern,344.79,1,344.79,Visa
+569,2026-02-18,Makkah,Beauty,Beard Oil,221.61,4,886.44,Apple Pay
+570,2025-07-24,Riyadh,Electronics,Smart Watch,3787.97,1,3787.97,Mastercard
+571,2025-01-05,Makkah,Apparel,Thobe Classic,413.34,2,826.68,Visa
+572,2025-05-13,Medina,Home & Kitchen,Blender,257.84,5,1289.2,Cash
+573,2025-02-16,Dammam,Apparel,Thobe Classic,249.1,3,747.3,Apple Pay
+574,2026-06-21,Medina,Groceries,Honey Pure,80.81,2,161.62,Mastercard
+575,2025-06-18,Khobar,Home & Kitchen,Air Fryer,1145.49,4,4581.96,Mada
+576,2025-08-05,Jeddah,Apparel,Abaya Modern,467.04,5,2335.2,Cash
+577,2025-02-08,Jeddah,Electronics,Sony Headphones,2188.37,3,6565.11,Cash
+578,2025-02-19,Makkah,Electronics,Smart Watch,3478.86,1,3478.86,Mada
+579,2026-03-31,Medina,Electronics,iPad Air,2211.14,5,11055.7,Mastercard
+580,2025-01-10,Khobar,Apparel,Abaya Modern,250.56,1,250.56,Cash
+581,2025-05-21,Dammam,Groceries,Honey Pure,95.39,1,95.39,Cash
+582,2025-10-17,Medina,Groceries,Dates Premium,40.52,1,40.52,Apple Pay
+583,2025-09-27,Jeddah,Groceries,Olive Oil,169.67,2,339.34,Mastercard
+584,2025-06-14,Medina,Beauty,Sunscreen,65.76,4,263.04,Visa
+585,2025-08-29,Medina,Beauty,Sunscreen,51.1,1,51.1,Mada
+586,2025-04-03,Makkah,Beauty,Moisturizer,361.81,1,361.81,Mada
+587,2025-10-31,Dammam,Apparel,Leather Sandals,232.06,1,232.06,Mada
+588,2026-01-04,Jeddah,Electronics,Sony Headphones,4107.18,3,12321.54,Apple Pay
+589,2025-02-16,Medina,Electronics,iPhone 15,543.53,2,1087.06,Visa
+590,2025-10-02,Dammam,Home & Kitchen,Dinner Set,1072.4,1,1072.4,Mastercard
+591,2026-02-15,Dammam,Apparel,Thobe Classic,300.13,4,1200.52,Mastercard
+592,2025-06-20,Khobar,Beauty,Beard Oil,95.22,1,95.22,Visa
+593,2026-05-10,Riyadh,Beauty,Gift Set,370.91,4,1483.64,Visa
+594,2025-01-30,Makkah,Beauty,Sunscreen,395.03,2,790.06,Apple Pay
+595,2026-03-28,Khobar,Electronics,iPad Air,706.88,3,2120.64,Mastercard
+596,2025-08-18,Riyadh,Groceries,Honey Pure,196.02,3,588.06,Cash
+597,2026-03-20,Makkah,Groceries,Dates Premium,139.11,2,278.22,Apple Pay
+598,2025-02-25,Dammam,Beauty,Moisturizer,54.66,2,109.32,Cash
+599,2025-03-18,Khobar,Beauty,Moisturizer,350.57,3,1051.71,Visa
+600,2026-06-04,Dammam,Home & Kitchen,Arabic Coffee Maker,383.84,4,1535.36,Apple Pay
+601,2026-03-31,Jeddah,Electronics,iPad Air,4105.68,4,16422.72,Mada
+602,2025-05-02,Khobar,Beauty,Sunscreen,442.27,1,442.27,Mada
+603,2025-01-01,Khobar,Beauty,Oud Perfume,380.36,5,1901.8,Cash
+604,2025-07-31,Medina,Home & Kitchen,Vacuum Cleaner,837.33,4,3349.32,Mastercard
+605,2026-04-11,Dammam,Electronics,Samsung Galaxy S24,1993.88,5,9969.4,Cash
+606,2025-04-27,Khobar,Home & Kitchen,Dinner Set,252.31,2,504.62,Mada
+607,2026-06-19,Dammam,Home & Kitchen,Blender,542.58,1,542.58,Mada
+608,2026-02-24,Jeddah,Beauty,Moisturizer,92.78,5,463.9,Visa
+609,2025-08-09,Jeddah,Electronics,iPad Air,2556.71,2,5113.42,Mastercard
+610,2025-05-07,Riyadh,Beauty,Oud Perfume,358.86,4,1435.44,Apple Pay
+611,2025-05-18,Medina,Groceries,Honey Pure,193.49,1,193.49,Cash
+612,2026-03-20,Medina,Electronics,Smart Watch,4274.67,4,17098.68,Cash
+613,2025-05-12,Jeddah,Groceries,Olive Oil,38.64,5,193.2,Cash
+614,2026-03-05,Dammam,Groceries,Arabic Coffee Beans,196.31,2,392.62,Mastercard
+615,2026-04-09,Khobar,Home & Kitchen,Blender,995.04,2,1990.08,Apple Pay
+616,2025-11-18,Makkah,Groceries,Basmati Rice,148.14,5,740.7,Visa
+617,2025-10-25,Jeddah,Apparel,Formal Suit,443.31,2,886.62,Visa
+618,2025-04-29,Makkah,Groceries,Basmati Rice,156.94,5,784.7,Apple Pay
+619,2025-10-20,Makkah,Groceries,Arabic Coffee Beans,177.95,4,711.8,Mada
+620,2026-01-26,Makkah,Electronics,iPhone 15,1153.97,1,1153.97,Visa
+621,2025-09-14,Dammam,Apparel,Sports Sneakers,173.21,1,173.21,Mastercard
+622,2026-01-03,Jeddah,Groceries,Dates Premium,166.52,1,166.52,Cash
+623,2026-02-03,Medina,Groceries,Olive Oil,62.77,3,188.31,Mada
+624,2025-11-17,Khobar,Beauty,Beard Oil,436.33,1,436.33,Mada
+625,2026-03-30,Medina,Home & Kitchen,Air Fryer,1021.48,3,3064.44,Cash
+626,2025-07-18,Makkah,Groceries,Olive Oil,72.95,2,145.9,Mada
+627,2025-05-03,Jeddah,Apparel,Formal Suit,288.6,4,1154.4,Mastercard
+628,2025-06-14,Makkah,Home & Kitchen,Air Fryer,763.19,3,2289.57,Mada
+629,2025-02-10,Dammam,Beauty,Moisturizer,111.48,3,334.44,Cash
+630,2026-05-18,Riyadh,Groceries,Basmati Rice,162.18,5,810.9,Mastercard
+631,2025-08-14,Riyadh,Home & Kitchen,Vacuum Cleaner,1154.84,5,5774.2,Mada
+632,2026-02-18,Makkah,Apparel,Leather Sandals,145.97,2,291.94,Visa
+633,2026-01-05,Medina,Home & Kitchen,Blender,458.25,5,2291.25,Cash
+634,2025-04-28,Khobar,Groceries,Dates Premium,140.41,4,561.64,Visa
+635,2025-09-07,Medina,Groceries,Honey Pure,192.6,3,577.8,Apple Pay
+636,2025-10-17,Riyadh,Beauty,Sunscreen,59.88,5,299.4,Mastercard
+637,2026-05-14,Makkah,Groceries,Arabic Coffee Beans,27.89,2,55.78,Mastercard
+638,2025-06-21,Makkah,Electronics,iPhone 15,4872.33,5,24361.65,Cash
+639,2025-08-07,Riyadh,Electronics,Samsung Galaxy S24,4392.28,4,17569.12,Mada
+640,2025-03-15,Jeddah,Groceries,Arabic Coffee Beans,154.44,2,308.88,Mada
+641,2025-03-31,Khobar,Home & Kitchen,Arabic Coffee Maker,226.91,2,453.82,Mastercard
+642,2025-08-22,Makkah,Electronics,Smart Watch,4599.44,4,18397.76,Apple Pay
+643,2025-11-20,Khobar,Beauty,Beard Oil,56.76,1,56.76,Cash
+644,2025-02-16,Riyadh,Groceries,Dates Premium,146.16,1,146.16,Mastercard
+645,2025-11-05,Makkah,Electronics,Sony Headphones,3229.55,3,9688.65,Apple Pay
+646,2026-05-01,Khobar,Beauty,Oud Perfume,112.53,2,225.06,Visa
+647,2025-10-30,Medina,Beauty,Gift Set,434.05,2,868.1,Mastercard
+648,2025-05-25,Medina,Home & Kitchen,Arabic Coffee Maker,279.4,1,279.4,Cash
+649,2025-03-29,Makkah,Beauty,Gift Set,171.88,3,515.64,Visa
+650,2025-06-14,Khobar,Groceries,Olive Oil,53.12,5,265.6,Mastercard
+651,2025-02-25,Jeddah,Electronics,Samsung Galaxy S24,4331.24,5,21656.2,Apple Pay
+652,2025-10-25,Medina,Groceries,Dates Premium,140.9,3,422.7,Mada
+653,2025-12-05,Jeddah,Groceries,Arabic Coffee Beans,84.28,2,168.56,Mada
+654,2025-07-18,Dammam,Groceries,Dates Premium,77.2,4,308.8,Mastercard
+655,2025-06-06,Makkah,Home & Kitchen,Vacuum Cleaner,743.83,3,2231.49,Mastercard
+656,2025-11-17,Khobar,Apparel,Thobe Classic,223.09,2,446.18,Apple Pay
+657,2025-12-06,Dammam,Home & Kitchen,Air Fryer,1071.78,4,4287.12,Apple Pay
+658,2025-04-22,Dammam,Home & Kitchen,Dinner Set,334.56,5,1672.8,Mada
+659,2025-07-21,Dammam,Apparel,Formal Suit,231.62,1,231.62,Mada
+660,2026-02-19,Riyadh,Groceries,Dates Premium,158.46,2,316.92,Mada
+661,2026-04-29,Makkah,Home & Kitchen,Vacuum Cleaner,836.6,2,1673.2,Mastercard
+662,2025-10-25,Khobar,Apparel,Formal Suit,166.94,5,834.7,Cash
+663,2026-05-30,Riyadh,Beauty,Sunscreen,54.24,2,108.48,Cash
+664,2025-05-24,Medina,Apparel,Formal Suit,323.11,2,646.22,Cash
+665,2026-01-03,Makkah,Apparel,Leather Sandals,120.21,4,480.84,Visa
+666,2025-08-28,Riyadh,Home & Kitchen,Blender,194.95,2,389.9,Cash
+667,2026-04-11,Dammam,Beauty,Beard Oil,402.62,1,402.62,Mastercard
+668,2025-09-27,Riyadh,Groceries,Basmati Rice,124.15,5,620.75,Visa
+669,2025-03-21,Khobar,Beauty,Sunscreen,256.67,4,1026.68,Visa
+670,2025-12-20,Makkah,Beauty,Sunscreen,244.74,4,978.96,Cash
+671,2026-03-27,Riyadh,Groceries,Olive Oil,49.81,1,49.81,Cash
+672,2025-06-03,Medina,Home & Kitchen,Air Fryer,346.25,3,1038.75,Cash
+673,2026-03-01,Medina,Electronics,Samsung Galaxy S24,4150.28,1,4150.28,Apple Pay
+674,2025-08-04,Medina,Beauty,Beard Oil,286.32,4,1145.28,Mada
+675,2025-06-14,Jeddah,Electronics,Samsung Galaxy S24,1106.26,5,5531.3,Mada
+676,2025-06-20,Makkah,Apparel,Thobe Classic,229.13,2,458.26,Cash
+677,2025-01-20,Khobar,Groceries,Honey Pure,178.13,3,534.39,Mada
+678,2026-04-28,Jeddah,Beauty,Gift Set,396.92,2,793.84,Visa
+679,2025-07-06,Khobar,Groceries,Olive Oil,132.18,5,660.9,Mastercard
+680,2025-03-12,Jeddah,Home & Kitchen,Dinner Set,391.3,4,1565.2,Visa
+681,2026-06-20,Riyadh,Electronics,Samsung Galaxy S24,4368.16,5,21840.8,Apple Pay
+682,2025-07-01,Jeddah,Groceries,Dates Premium,105.66,5,528.3,Cash
+683,2025-05-01,Riyadh,Groceries,Honey Pure,36.77,2,73.54,Cash
+684,2026-06-19,Makkah,Electronics,iPad Air,2393.08,1,2393.08,Cash
+685,2026-01-26,Khobar,Apparel,Leather Sandals,275.26,5,1376.3,Mada
+686,2026-05-04,Khobar,Apparel,Sports Sneakers,482.93,1,482.93,Mastercard
+687,2025-09-21,Makkah,Groceries,Arabic Coffee Beans,54.02,1,54.02,Cash
+688,2025-01-08,Makkah,Electronics,Smart Watch,2187.63,2,4375.26,Mastercard
+689,2025-06-08,Khobar,Home & Kitchen,Arabic Coffee Maker,597.38,5,2986.9,Mastercard
+690,2026-01-10,Dammam,Groceries,Arabic Coffee Beans,130.14,4,520.56,Visa
+691,2026-05-10,Khobar,Groceries,Honey Pure,52.17,5,260.85,Cash
+692,2025-12-19,Khobar,Home & Kitchen,Blender,962.9,4,3851.6,Visa
+693,2026-04-03,Medina,Electronics,Samsung Galaxy S24,4023.99,2,8047.98,Mada
+694,2025-12-13,Jeddah,Groceries,Arabic Coffee Beans,164.15,5,820.75,Mada
+695,2025-04-04,Jeddah,Beauty,Oud Perfume,379.3,4,1517.2,Cash
+696,2025-09-27,Khobar,Electronics,iPhone 15,1497.97,1,1497.97,Cash
+697,2026-06-18,Riyadh,Beauty,Beard Oil,164.59,5,822.95,Mada
+698,2025-01-11,Jeddah,Beauty,Beard Oil,130.68,5,653.4,Mastercard
+699,2026-06-07,Jeddah,Electronics,Smart Watch,2821.16,2,5642.32,Cash
+700,2025-09-02,Jeddah,Electronics,Sony Headphones,3447.59,2,6895.18,Mada
+701,2026-02-09,Dammam,Beauty,Sunscreen,212.18,2,424.36,Cash
+702,2025-10-19,Riyadh,Electronics,iPhone 15,3767.62,5,18838.1,Cash
+703,2025-08-20,Dammam,Home & Kitchen,Blender,786.68,2,1573.36,Apple Pay
+704,2025-09-25,Khobar,Groceries,Dates Premium,51.51,5,257.55,Mada
+705,2025-10-29,Makkah,Electronics,Smart Watch,2029.85,1,2029.85,Cash
+706,2025-09-14,Dammam,Groceries,Honey Pure,144.95,4,579.8,Cash
+707,2026-04-15,Khobar,Apparel,Sports Sneakers,440.8,5,2204.0,Mada
+708,2025-03-11,Khobar,Electronics,Sony Headphones,2222.03,2,4444.06,Visa
+709,2026-06-13,Dammam,Beauty,Sunscreen,264.26,3,792.78,Visa
+710,2025-12-17,Dammam,Electronics,iPad Air,842.13,2,1684.26,Apple Pay
+711,2025-10-03,Dammam,Home & Kitchen,Air Fryer,341.92,2,683.84,Apple Pay
+712,2025-09-05,Medina,Apparel,Abaya Modern,536.37,2,1072.74,Visa
+713,2025-12-31,Jeddah,Apparel,Formal Suit,178.0,1,178.0,Mada
+714,2025-01-07,Riyadh,Beauty,Gift Set,355.7,5,1778.5,Mada
+715,2025-11-19,Khobar,Home & Kitchen,Vacuum Cleaner,666.96,5,3334.8,Mastercard
+716,2025-10-14,Khobar,Apparel,Formal Suit,298.94,5,1494.7,Visa
+717,2026-05-05,Riyadh,Groceries,Arabic Coffee Beans,189.14,1,189.14,Cash
+718,2026-04-14,Dammam,Beauty,Moisturizer,440.6,5,2203.0,Apple Pay
+719,2025-08-04,Dammam,Electronics,iPhone 15,2207.43,1,2207.43,Mastercard
+720,2025-07-11,Dammam,Groceries,Basmati Rice,118.74,2,237.48,Mastercard
+721,2026-01-10,Khobar,Groceries,Basmati Rice,53.1,4,212.4,Visa
+722,2026-02-15,Khobar,Home & Kitchen,Blender,443.61,2,887.22,Cash
+723,2025-04-13,Jeddah,Groceries,Olive Oil,149.75,2,299.5,Cash
+724,2025-05-30,Khobar,Beauty,Moisturizer,370.01,2,740.02,Apple Pay
+725,2026-05-27,Riyadh,Apparel,Leather Sandals,167.24,5,836.2,Cash
+726,2025-11-04,Medina,Home & Kitchen,Dinner Set,413.52,5,2067.6,Mada
+727,2025-03-03,Khobar,Electronics,Samsung Galaxy S24,1469.6,3,4408.8,Apple Pay
+728,2025-12-09,Medina,Electronics,iPad Air,1668.96,3,5006.88,Cash
+729,2025-01-21,Makkah,Home & Kitchen,Blender,582.35,3,1747.05,Cash
+730,2025-06-28,Jeddah,Groceries,Honey Pure,196.29,3,588.87,Mastercard
+731,2026-04-03,Dammam,Groceries,Arabic Coffee Beans,180.13,4,720.52,Cash
+732,2025-06-21,Dammam,Beauty,Moisturizer,306.23,3,918.69,Apple Pay
+733,2026-02-19,Medina,Groceries,Honey Pure,172.8,1,172.8,Mada
+734,2025-11-18,Jeddah,Home & Kitchen,Air Fryer,482.72,3,1448.16,Mastercard
+735,2026-04-01,Makkah,Beauty,Sunscreen,362.39,3,1087.17,Cash
+736,2025-06-21,Makkah,Beauty,Beard Oil,123.55,1,123.55,Visa
+737,2025-03-23,Medina,Apparel,Sports Sneakers,205.29,4,821.16,Mada
+738,2025-02-25,Riyadh,Electronics,iPad Air,618.64,4,2474.56,Cash
+739,2025-06-09,Riyadh,Electronics,Sony Headphones,879.4,4,3517.6,Mastercard
+740,2026-03-30,Jeddah,Apparel,Sports Sneakers,413.24,2,826.48,Cash
+741,2026-01-01,Jeddah,Electronics,iPhone 15,4371.66,3,13114.98,Apple Pay
+742,2026-04-01,Khobar,Groceries,Basmati Rice,44.32,5,221.6,Visa
+743,2026-03-22,Makkah,Groceries,Arabic Coffee Beans,114.22,5,571.1,Mastercard
+744,2025-08-21,Dammam,Beauty,Gift Set,371.88,4,1487.52,Mastercard
+745,2025-06-09,Dammam,Beauty,Sunscreen,171.43,1,171.43,Cash
+746,2026-04-26,Jeddah,Home & Kitchen,Blender,711.85,4,2847.4,Apple Pay
+747,2025-10-27,Dammam,Electronics,iPad Air,3186.52,1,3186.52,Cash
+748,2026-03-24,Dammam,Apparel,Leather Sandals,297.38,2,594.76,Apple Pay
+749,2025-03-23,Khobar,Apparel,Sports Sneakers,311.12,2,622.24,Cash
+750,2026-06-29,Makkah,Home & Kitchen,Blender,999.25,4,3997.0,Visa
+751,2025-10-24,Riyadh,Apparel,Abaya Modern,155.18,4,620.72,Cash
+752,2026-05-19,Khobar,Home & Kitchen,Vacuum Cleaner,347.18,1,347.18,Visa
+753,2025-07-10,Riyadh,Groceries,Dates Premium,195.02,3,585.06,Mastercard
+754,2025-08-27,Jeddah,Beauty,Oud Perfume,86.08,1,86.08,Apple Pay
+755,2025-11-16,Jeddah,Home & Kitchen,Dinner Set,975.01,4,3900.04,Mastercard
+756,2025-03-24,Khobar,Electronics,Sony Headphones,4295.96,2,8591.92,Mada
+757,2026-04-27,Dammam,Beauty,Oud Perfume,122.64,3,367.92,Apple Pay
+758,2026-01-30,Riyadh,Electronics,Samsung Galaxy S24,3970.51,4,15882.04,Visa
+759,2026-04-17,Medina,Electronics,Samsung Galaxy S24,3808.95,1,3808.95,Cash
+760,2026-02-03,Medina,Apparel,Leather Sandals,440.72,3,1322.16,Mastercard
+761,2026-06-18,Jeddah,Electronics,Smart Watch,1049.64,4,4198.56,Mastercard
+762,2025-08-12,Jeddah,Home & Kitchen,Arabic Coffee Maker,1171.94,2,2343.88,Apple Pay
+763,2025-10-10,Dammam,Electronics,Samsung Galaxy S24,3131.14,4,12524.56,Visa
+764,2026-05-02,Riyadh,Electronics,Smart Watch,3597.83,2,7195.66,Mastercard
+765,2026-05-27,Riyadh,Apparel,Abaya Modern,145.7,5,728.5,Mastercard
+766,2025-12-31,Medina,Electronics,iPhone 15,3400.59,5,17002.95,Mada
+767,2025-11-21,Jeddah,Beauty,Moisturizer,442.67,3,1328.01,Apple Pay
+768,2026-01-22,Medina,Apparel,Thobe Classic,279.08,2,558.16,Mastercard
+769,2025-10-29,Riyadh,Beauty,Beard Oil,267.09,4,1068.36,Visa
+770,2025-12-23,Makkah,Apparel,Formal Suit,261.84,4,1047.36,Mastercard
+771,2025-03-12,Makkah,Groceries,Olive Oil,115.6,4,462.4,Mastercard
+772,2026-04-10,Dammam,Groceries,Basmati Rice,20.13,5,100.65,Apple Pay
+773,2026-01-08,Medina,Apparel,Thobe Classic,488.01,2,976.02,Mastercard
+774,2026-02-01,Medina,Electronics,Smart Watch,1354.41,4,5417.64,Cash
+775,2025-11-27,Jeddah,Groceries,Basmati Rice,93.76,3,281.28,Mada
+776,2025-02-14,Riyadh,Groceries,Dates Premium,170.33,2,340.66,Visa
+777,2026-05-13,Riyadh,Apparel,Thobe Classic,195.81,1,195.81,Cash
+778,2026-06-23,Medina,Beauty,Beard Oil,299.59,5,1497.95,Mastercard
+779,2025-03-14,Riyadh,Home & Kitchen,Air Fryer,163.74,2,327.48,Apple Pay
+780,2026-01-05,Riyadh,Beauty,Oud Perfume,273.21,4,1092.84,Mastercard
+781,2025-09-30,Medina,Electronics,Smart Watch,2880.59,1,2880.59,Mastercard
+782,2025-04-10,Riyadh,Apparel,Formal Suit,150.61,2,301.22,Cash
+783,2026-06-23,Khobar,Apparel,Abaya Modern,428.44,5,2142.2,Visa
+784,2025-04-19,Makkah,Groceries,Arabic Coffee Beans,157.93,5,789.65,Mastercard
+785,2025-04-17,Medina,Beauty,Beard Oil,116.72,2,233.44,Cash
+786,2025-06-11,Khobar,Groceries,Basmati Rice,116.1,5,580.5,Apple Pay
+787,2025-11-29,Dammam,Home & Kitchen,Vacuum Cleaner,1037.1,4,4148.4,Apple Pay
+788,2025-09-04,Medina,Home & Kitchen,Vacuum Cleaner,741.3,2,1482.6,Apple Pay
+789,2026-04-09,Makkah,Home & Kitchen,Blender,619.87,4,2479.48,Mada
+790,2025-01-17,Medina,Electronics,Sony Headphones,2829.24,3,8487.72,Mada
+791,2025-11-19,Dammam,Apparel,Abaya Modern,110.85,3,332.55,Cash
+792,2025-06-08,Makkah,Groceries,Honey Pure,36.97,4,147.88,Mastercard
+793,2026-01-11,Jeddah,Apparel,Sports Sneakers,544.81,2,1089.62,Visa
+794,2026-02-14,Dammam,Home & Kitchen,Arabic Coffee Maker,747.52,2,1495.04,Mada
+795,2025-06-27,Medina,Home & Kitchen,Dinner Set,662.69,5,3313.45,Mada
+796,2026-01-26,Makkah,Home & Kitchen,Arabic Coffee Maker,232.4,1,232.4,Mastercard
+797,2025-05-04,Dammam,Beauty,Beard Oil,397.91,2,795.82,Cash
+798,2025-11-09,Riyadh,Beauty,Oud Perfume,259.75,3,779.25,Cash
+799,2026-05-30,Makkah,Apparel,Sports Sneakers,448.88,2,897.76,Mada
+800,2026-06-01,Medina,Beauty,Beard Oil,86.03,4,344.12,Mastercard
+801,2025-12-11,Khobar,Apparel,Abaya Modern,141.27,5,706.35,Mada
+802,2025-03-29,Makkah,Beauty,Sunscreen,209.41,4,837.64,Visa
+803,2025-07-22,Jeddah,Beauty,Gift Set,245.14,5,1225.7,Visa
+804,2025-09-10,Makkah,Groceries,Honey Pure,63.62,3,190.86,Apple Pay
+805,2025-04-26,Dammam,Groceries,Dates Premium,140.91,4,563.64,Mastercard
+806,2025-12-19,Dammam,Apparel,Sports Sneakers,396.94,1,396.94,Mastercard
+807,2026-03-29,Jeddah,Home & Kitchen,Vacuum Cleaner,804.34,4,3217.36,Mada
+808,2025-06-09,Jeddah,Apparel,Sports Sneakers,478.87,1,478.87,Mada
+809,2025-06-01,Medina,Electronics,Samsung Galaxy S24,4409.39,3,13228.17,Mada
+810,2026-04-06,Dammam,Electronics,Sony Headphones,2620.36,3,7861.08,Visa
+811,2025-07-28,Medina,Groceries,Olive Oil,118.36,3,355.08,Cash
+812,2025-01-19,Khobar,Groceries,Olive Oil,87.79,5,438.95,Mada
+813,2025-10-18,Dammam,Apparel,Thobe Classic,200.35,5,1001.75,Mastercard
+814,2025-03-10,Riyadh,Beauty,Oud Perfume,205.46,3,616.38,Mastercard
+815,2026-01-31,Riyadh,Electronics,Sony Headphones,1540.26,4,6161.04,Cash
+816,2026-05-12,Medina,Electronics,Sony Headphones,4400.48,5,22002.4,Mada
+817,2026-04-14,Jeddah,Apparel,Formal Suit,380.34,1,380.34,Mada
+818,2025-12-08,Jeddah,Groceries,Basmati Rice,108.19,2,216.38,Mada
+819,2025-11-06,Dammam,Home & Kitchen,Blender,398.02,5,1990.1,Mastercard
+820,2025-01-31,Riyadh,Home & Kitchen,Dinner Set,1141.34,3,3424.02,Visa
+821,2025-05-21,Jeddah,Home & Kitchen,Dinner Set,242.18,4,968.72,Cash
+822,2026-03-04,Medina,Groceries,Olive Oil,63.26,2,126.52,Apple Pay
+823,2026-04-05,Dammam,Groceries,Basmati Rice,117.6,2,235.2,Visa
+824,2025-05-22,Makkah,Groceries,Olive Oil,75.62,5,378.1,Visa
+825,2025-06-11,Khobar,Apparel,Formal Suit,258.75,5,1293.75,Cash
+826,2025-11-22,Medina,Electronics,Samsung Galaxy S24,4277.85,2,8555.7,Mada
+827,2025-11-07,Dammam,Beauty,Beard Oil,227.2,3,681.6,Visa
+828,2025-07-09,Jeddah,Electronics,Samsung Galaxy S24,617.89,5,3089.45,Cash
+829,2025-08-25,Dammam,Groceries,Honey Pure,127.34,2,254.68,Mada
+830,2025-05-18,Dammam,Electronics,iPad Air,2760.46,5,13802.3,Apple Pay
+831,2026-02-01,Medina,Home & Kitchen,Air Fryer,666.02,2,1332.04,Visa
+832,2026-02-23,Jeddah,Apparel,Thobe Classic,482.27,1,482.27,Mastercard
+833,2025-07-29,Khobar,Apparel,Abaya Modern,133.07,4,532.28,Cash
+834,2025-09-10,Khobar,Home & Kitchen,Dinner Set,598.93,1,598.93,Cash
+835,2026-02-08,Medina,Beauty,Sunscreen,294.6,5,1473.0,Cash
+836,2026-06-18,Makkah,Groceries,Dates Premium,39.68,4,158.72,Mada
+837,2026-02-10,Jeddah,Groceries,Honey Pure,197.09,1,197.09,Cash
+838,2025-07-14,Khobar,Groceries,Dates Premium,72.41,4,289.64,Mastercard
+839,2026-03-09,Dammam,Beauty,Moisturizer,167.77,1,167.77,Cash
+840,2025-04-03,Jeddah,Beauty,Beard Oil,339.06,1,339.06,Visa
+841,2026-02-07,Makkah,Groceries,Olive Oil,94.44,4,377.76,Mada
+842,2025-07-26,Jeddah,Beauty,Gift Set,403.02,1,403.02,Mastercard
+843,2025-04-04,Dammam,Apparel,Thobe Classic,157.08,4,628.32,Mastercard
+844,2026-06-08,Riyadh,Groceries,Arabic Coffee Beans,130.17,2,260.34,Apple Pay
+845,2025-06-24,Makkah,Beauty,Oud Perfume,414.9,5,2074.5,Visa
+846,2025-02-22,Jeddah,Apparel,Abaya Modern,309.79,3,929.37,Apple Pay
+847,2025-05-15,Dammam,Apparel,Thobe Classic,580.22,1,580.22,Cash
+848,2026-05-25,Dammam,Electronics,iPad Air,4349.35,5,21746.75,Mada
+849,2025-08-11,Makkah,Beauty,Moisturizer,285.54,4,1142.16,Apple Pay
+850,2025-01-07,Khobar,Beauty,Oud Perfume,147.89,5,739.45,Mastercard
+851,2025-02-20,Makkah,Groceries,Olive Oil,53.27,1,53.27,Mastercard
+852,2025-11-02,Riyadh,Apparel,Thobe Classic,265.56,1,265.56,Mada
+853,2025-06-15,Riyadh,Beauty,Moisturizer,318.84,5,1594.2,Cash
+854,2026-04-12,Makkah,Groceries,Olive Oil,154.88,3,464.64,Mada
+855,2026-01-13,Riyadh,Home & Kitchen,Blender,1092.41,1,1092.41,Apple Pay
+856,2026-04-28,Makkah,Electronics,Sony Headphones,1105.46,3,3316.38,Mastercard
+857,2025-08-03,Makkah,Beauty,Gift Set,328.33,5,1641.65,Mada
+858,2025-03-31,Riyadh,Groceries,Honey Pure,107.06,5,535.3,Mastercard
+859,2025-09-23,Khobar,Groceries,Basmati Rice,114.57,5,572.85,Mastercard
+860,2026-05-24,Jeddah,Groceries,Honey Pure,113.55,4,454.2,Apple Pay
+861,2025-10-25,Jeddah,Groceries,Olive Oil,196.27,1,196.27,Mada
+862,2025-08-01,Riyadh,Beauty,Oud Perfume,369.83,4,1479.32,Apple Pay
+863,2025-08-06,Riyadh,Home & Kitchen,Blender,161.86,2,323.72,Mastercard
+864,2025-11-04,Dammam,Electronics,Sony Headphones,2780.1,3,8340.3,Mada
+865,2026-02-10,Riyadh,Home & Kitchen,Blender,910.62,5,4553.1,Mada
+866,2025-12-13,Jeddah,Apparel,Sports Sneakers,561.14,4,2244.56,Apple Pay
+867,2025-06-09,Riyadh,Apparel,Leather Sandals,413.6,5,2068.0,Mastercard
+868,2026-06-18,Khobar,Beauty,Oud Perfume,169.74,3,509.22,Cash
+869,2025-12-06,Makkah,Electronics,Samsung Galaxy S24,4097.91,3,12293.73,Mada
+870,2025-12-14,Jeddah,Home & Kitchen,Arabic Coffee Maker,1182.8,5,5914.0,Visa
+871,2025-07-11,Makkah,Groceries,Arabic Coffee Beans,127.13,3,381.39,Mastercard
+872,2026-02-28,Medina,Electronics,Sony Headphones,890.59,2,1781.18,Mastercard
+873,2026-06-22,Khobar,Home & Kitchen,Air Fryer,467.43,1,467.43,Mastercard
+874,2026-03-31,Riyadh,Apparel,Thobe Classic,353.0,4,1412.0,Cash
+875,2026-05-11,Jeddah,Apparel,Sports Sneakers,466.22,5,2331.1,Mastercard
+876,2026-06-13,Dammam,Apparel,Thobe Classic,438.36,2,876.72,Visa
+877,2026-02-01,Medina,Electronics,iPad Air,3711.55,5,18557.75,Mada
+878,2025-03-31,Riyadh,Home & Kitchen,Arabic Coffee Maker,499.95,1,499.95,Mada
+879,2025-11-16,Makkah,Home & Kitchen,Arabic Coffee Maker,820.79,2,1641.58,Mastercard
+880,2025-10-11,Jeddah,Apparel,Sports Sneakers,366.14,4,1464.56,Mada
+881,2025-10-08,Dammam,Apparel,Abaya Modern,157.23,5,786.15,Cash
+882,2025-12-25,Makkah,Electronics,Samsung Galaxy S24,2972.15,3,8916.45,Visa
+883,2025-09-08,Medina,Home & Kitchen,Vacuum Cleaner,329.84,3,989.52,Cash
+884,2025-02-21,Dammam,Groceries,Arabic Coffee Beans,43.41,4,173.64,Mada
+885,2025-03-30,Riyadh,Beauty,Oud Perfume,220.59,2,441.18,Cash
+886,2025-12-31,Makkah,Beauty,Gift Set,174.98,2,349.96,Cash
+887,2025-05-15,Riyadh,Beauty,Gift Set,87.17,4,348.68,Mada
+888,2026-04-27,Khobar,Home & Kitchen,Dinner Set,393.28,2,786.56,Visa
+889,2026-02-06,Makkah,Home & Kitchen,Blender,342.52,3,1027.56,Mastercard
+890,2025-03-08,Khobar,Beauty,Oud Perfume,240.13,3,720.39,Apple Pay
+891,2025-12-23,Khobar,Apparel,Sports Sneakers,402.22,2,804.44,Cash
+892,2025-11-30,Riyadh,Beauty,Oud Perfume,272.46,1,272.46,Mastercard
+893,2026-02-28,Makkah,Beauty,Beard Oil,145.43,2,290.86,Cash
+894,2025-03-09,Jeddah,Beauty,Beard Oil,186.29,5,931.45,Apple Pay
+895,2025-08-30,Khobar,Groceries,Basmati Rice,51.16,1,51.16,Cash
+896,2026-04-20,Khobar,Electronics,Smart Watch,1964.2,1,1964.2,Apple Pay
+897,2025-03-13,Jeddah,Home & Kitchen,Dinner Set,778.17,5,3890.85,Apple Pay
+898,2025-04-03,Dammam,Beauty,Oud Perfume,137.04,2,274.08,Cash
+899,2025-06-02,Medina,Electronics,Samsung Galaxy S24,2538.38,3,7615.14,Apple Pay
+900,2025-07-20,Makkah,Groceries,Arabic Coffee Beans,57.02,3,171.06,Mastercard
+901,2025-12-19,Makkah,Home & Kitchen,Dinner Set,1189.8,5,5949.0,Mada
+902,2025-05-11,Makkah,Groceries,Arabic Coffee Beans,173.45,1,173.45,Mastercard
+903,2026-01-03,Makkah,Electronics,iPhone 15,993.64,3,2980.92,Mada
+904,2026-02-08,Jeddah,Beauty,Gift Set,300.09,4,1200.36,Apple Pay
+905,2025-08-05,Khobar,Beauty,Gift Set,315.0,4,1260.0,Visa
+906,2026-01-04,Jeddah,Groceries,Arabic Coffee Beans,171.19,2,342.38,Mastercard
+907,2025-01-12,Medina,Apparel,Abaya Modern,135.87,1,135.87,Visa
+908,2025-05-20,Medina,Beauty,Beard Oil,83.87,4,335.48,Apple Pay
+909,2025-07-04,Medina,Groceries,Arabic Coffee Beans,101.79,4,407.16,Cash
+910,2025-08-20,Khobar,Beauty,Sunscreen,124.32,5,621.6,Mada
+911,2026-05-29,Makkah,Beauty,Moisturizer,157.7,5,788.5,Cash
+912,2026-05-10,Dammam,Electronics,iPhone 15,3671.97,1,3671.97,Cash
+913,2026-06-24,Khobar,Electronics,Samsung Galaxy S24,4926.11,3,14778.33,Apple Pay
+914,2025-04-01,Makkah,Electronics,Smart Watch,1603.54,1,1603.54,Cash
+915,2025-02-24,Makkah,Home & Kitchen,Vacuum Cleaner,1098.76,5,5493.8,Mada
+916,2026-04-26,Khobar,Beauty,Gift Set,279.59,3,838.77,Apple Pay
+917,2025-06-21,Dammam,Home & Kitchen,Blender,187.09,5,935.45,Mastercard
+918,2025-03-04,Medina,Groceries,Basmati Rice,133.27,5,666.35,Visa
+919,2025-01-28,Makkah,Electronics,Sony Headphones,1790.67,1,1790.67,Visa
+920,2025-09-16,Makkah,Electronics,Sony Headphones,1096.42,3,3289.26,Mastercard
+921,2025-06-28,Dammam,Electronics,iPhone 15,4595.59,2,9191.18,Apple Pay
+922,2025-08-30,Dammam,Apparel,Sports Sneakers,342.46,5,1712.3,Mada
+923,2025-06-07,Dammam,Electronics,Samsung Galaxy S24,4269.26,4,17077.04,Apple Pay
+924,2025-08-04,Jeddah,Beauty,Moisturizer,281.1,3,843.3,Mada
+925,2025-02-23,Medina,Home & Kitchen,Arabic Coffee Maker,325.98,4,1303.92,Apple Pay
+926,2025-08-28,Dammam,Beauty,Gift Set,201.92,4,807.68,Apple Pay
+927,2026-03-22,Dammam,Apparel,Formal Suit,105.93,4,423.72,Apple Pay
+928,2025-02-12,Medina,Home & Kitchen,Vacuum Cleaner,252.23,5,1261.15,Mastercard
+929,2025-12-10,Khobar,Groceries,Basmati Rice,68.66,1,68.66,Mastercard
+930,2026-04-18,Medina,Groceries,Arabic Coffee Beans,159.17,2,318.34,Cash
+931,2025-07-04,Jeddah,Groceries,Basmati Rice,76.39,1,76.39,Mada
+932,2025-04-11,Riyadh,Electronics,iPad Air,2863.69,4,11454.76,Mastercard
+933,2025-07-17,Jeddah,Home & Kitchen,Blender,185.74,5,928.7,Mada
+934,2025-05-05,Riyadh,Groceries,Olive Oil,147.45,1,147.45,Mada
+935,2025-07-09,Makkah,Apparel,Leather Sandals,548.0,2,1096.0,Mastercard
+936,2026-04-10,Dammam,Beauty,Oud Perfume,419.08,3,1257.24,Apple Pay
+937,2025-06-15,Medina,Home & Kitchen,Blender,969.77,3,2909.31,Mada
+938,2025-03-03,Khobar,Beauty,Sunscreen,153.3,3,459.9,Visa
+939,2025-07-25,Khobar,Electronics,iPad Air,3246.36,2,6492.72,Apple Pay
+940,2026-03-18,Riyadh,Apparel,Formal Suit,209.19,1,209.19,Apple Pay
+941,2025-02-05,Medina,Home & Kitchen,Arabic Coffee Maker,226.57,5,1132.85,Mastercard
+942,2025-06-02,Khobar,Electronics,iPad Air,3437.89,1,3437.89,Mada
+943,2025-06-05,Medina,Beauty,Sunscreen,330.02,4,1320.08,Cash
+944,2026-05-05,Riyadh,Groceries,Arabic Coffee Beans,98.49,1,98.49,Cash
+945,2026-05-09,Jeddah,Electronics,iPad Air,1045.42,5,5227.1,Mastercard
+946,2025-02-26,Dammam,Home & Kitchen,Dinner Set,813.89,1,813.89,Mastercard
+947,2026-04-16,Makkah,Home & Kitchen,Arabic Coffee Maker,948.48,3,2845.44,Visa
+948,2026-01-29,Jeddah,Groceries,Dates Premium,138.93,3,416.79,Apple Pay
+949,2025-03-28,Riyadh,Home & Kitchen,Dinner Set,1079.47,4,4317.88,Visa
+950,2025-01-26,Jeddah,Electronics,Samsung Galaxy S24,3738.83,5,18694.15,Visa
+951,2025-11-12,Khobar,Beauty,Oud Perfume,249.87,4,999.48,Mada
+952,2025-12-12,Riyadh,Home & Kitchen,Arabic Coffee Maker,977.17,1,977.17,Apple Pay
+953,2026-04-15,Riyadh,Apparel,Formal Suit,570.04,5,2850.2,Visa
+954,2025-03-15,Medina,Groceries,Olive Oil,26.64,2,53.28,Apple Pay
+955,2025-02-16,Medina,Electronics,iPad Air,1592.07,2,3184.14,Mada
+956,2025-04-10,Jeddah,Electronics,Sony Headphones,2552.83,2,5105.66,Cash
+957,2026-05-25,Riyadh,Electronics,iPhone 15,3177.4,5,15887.0,Visa
+958,2025-12-12,Riyadh,Apparel,Leather Sandals,505.76,4,2023.04,Mastercard
+959,2025-05-21,Riyadh,Groceries,Honey Pure,77.89,2,155.78,Mada
+960,2025-03-06,Makkah,Apparel,Sports Sneakers,160.37,2,320.74,Apple Pay
+961,2025-06-18,Jeddah,Home & Kitchen,Vacuum Cleaner,610.59,5,3052.95,Mada
+962,2026-01-21,Jeddah,Electronics,Smart Watch,3999.48,1,3999.48,Apple Pay
+963,2025-07-03,Riyadh,Electronics,iPhone 15,4667.62,5,23338.1,Mastercard
+964,2025-07-31,Khobar,Beauty,Moisturizer,107.24,3,321.72,Cash
+965,2025-06-28,Khobar,Beauty,Moisturizer,294.22,1,294.22,Cash
+966,2025-04-01,Jeddah,Beauty,Gift Set,300.88,3,902.64,Mastercard
+967,2025-08-30,Khobar,Electronics,Smart Watch,1363.56,5,6817.8,Mada
+968,2026-06-04,Makkah,Home & Kitchen,Vacuum Cleaner,380.24,2,760.48,Mastercard
+969,2025-06-02,Riyadh,Apparel,Thobe Classic,442.62,4,1770.48,Apple Pay
+970,2025-02-25,Jeddah,Apparel,Thobe Classic,422.43,3,1267.29,Visa
+971,2026-04-10,Khobar,Home & Kitchen,Blender,195.48,1,195.48,Cash
+972,2026-05-12,Jeddah,Apparel,Thobe Classic,357.45,1,357.45,Visa
+973,2025-11-30,Medina,Beauty,Gift Set,217.63,3,652.89,Visa
+974,2025-04-11,Riyadh,Home & Kitchen,Air Fryer,398.97,4,1595.88,Visa
+975,2026-04-28,Khobar,Apparel,Thobe Classic,392.55,1,392.55,Apple Pay
+976,2026-04-11,Jeddah,Apparel,Formal Suit,189.03,3,567.09,Visa
+977,2025-10-04,Khobar,Apparel,Sports Sneakers,201.11,2,402.22,Mada
+978,2025-10-15,Medina,Groceries,Dates Premium,44.57,4,178.28,Apple Pay
+979,2025-08-14,Khobar,Apparel,Sports Sneakers,543.2,5,2716.0,Visa
+980,2025-08-24,Medina,Groceries,Olive Oil,35.57,5,177.85,Apple Pay
+981,2026-04-19,Jeddah,Groceries,Arabic Coffee Beans,70.25,4,281.0,Visa
+982,2025-08-16,Jeddah,Home & Kitchen,Dinner Set,1086.41,5,5432.05,Visa
+983,2025-02-15,Makkah,Electronics,iPad Air,680.26,4,2721.04,Cash
+984,2026-02-08,Riyadh,Beauty,Gift Set,241.71,1,241.71,Apple Pay
+985,2025-01-13,Khobar,Apparel,Thobe Classic,446.58,4,1786.32,Visa
+986,2025-09-02,Jeddah,Home & Kitchen,Blender,830.02,1,830.02,Mada
+987,2026-04-16,Khobar,Home & Kitchen,Air Fryer,1050.82,5,5254.1,Mada
+988,2026-02-20,Khobar,Beauty,Moisturizer,123.98,3,371.94,Apple Pay
+989,2026-01-30,Medina,Electronics,iPhone 15,4520.45,3,13561.35,Cash
+990,2025-10-04,Riyadh,Home & Kitchen,Dinner Set,882.96,5,4414.8,Cash
+991,2025-12-10,Makkah,Apparel,Thobe Classic,467.88,1,467.88,Cash
+992,2025-04-24,Medina,Home & Kitchen,Arabic Coffee Maker,552.1,4,2208.4,Cash
+993,2025-06-29,Riyadh,Home & Kitchen,Blender,830.58,1,830.58,Cash
+994,2025-12-09,Medina,Apparel,Abaya Modern,219.32,1,219.32,Apple Pay
+995,2025-08-19,Medina,Groceries,Olive Oil,77.68,3,233.04,Cash
+996,2025-02-25,Medina,Beauty,Sunscreen,75.35,3,226.05,Apple Pay
+997,2025-05-06,Khobar,Groceries,Honey Pure,104.63,5,523.15,Cash
+998,2026-01-12,Dammam,Beauty,Gift Set,369.96,1,369.96,Visa
+999,2026-02-05,Khobar,Electronics,iPhone 15,4540.76,3,13622.28,Mada
+1000,2025-04-25,Riyadh,Apparel,Sports Sneakers,448.54,4,1794.16,Visa
